@@ -869,6 +869,15 @@ div:not(.cart-qty):not(.btn-filtro):not(.main-header):not(.main-header div):not(
     text-shadow: none !important;
     -webkit-text-fill-color: #1e0050 !important;
 }
+.modal-efectivo-box{
+    background: #ffffff;
+}
+.efectivo-descuento{
+    color: #00ff9c;
+    text-shadow:
+    0 0 8px #9dff00,
+    0 0 18px #9dff00;
+}
 
 /* T\u00edtulos de Reels y Aprende */
 .neon-title,

@@ -30,8 +30,8 @@
   {
     "id": "PROD-MPEHG5FLALJP",
     "title": "Adaptador Conversor Displayport A Hdmi Premium Cable Hdmi 4k",
-    "price": 9500,
-    "priceLocal": 7500,
+    "price": 8500,
+    "priceLocal": 7000,
     "inStock": true,
     "priceNum": "8000",
     "cashPrice": "6500",
@@ -46,7 +46,7 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 5
+    "stock": 3
   },
   {
     "id": "prod-adaptador-displayport-hdmi-4k--469",
@@ -117,7 +117,7 @@
     "category2": "Herramientas",
     "category3": "Procesadores",
     "iva": "21,00%",
-    "stock": 7
+    "stock": 4
   },
   {
     "img": "img\\productos\\pasta termica arctic mx-4 8g.png",
@@ -200,7 +200,7 @@
     "proximoIngreso": false,
     "videoUrl": "https://www.youtube.com/shorts/mccm3ivIs_g",
     "iva": "21,00%",
-    "stock": 4
+    "stock": 3
   },
   {
     "id": "prod-1778110912793",
@@ -229,7 +229,7 @@
     ],
     "category3": "",
     "iva": "21,00%",
-    "stock": 2
+    "stock": 1
   },
   {
     "id": "prod-1778111074434",
@@ -366,7 +366,7 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 20
+    "stock": 19
   },
   {
     "id": "prod-1778171607065",
@@ -469,7 +469,7 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 10
+    "stock": 8
   },
   {
     "img": "img/productos/hdmi 3M 4k.png",
@@ -616,7 +616,7 @@
   {
     "id": "PROD-MPIE02FZTL76",
     "title": "CAMARA DE SEGURIDAD DOMO 360° 2K MC210 Camara IP Mercusys Indoor 2K 3MP 360",
-    "price": 32500,
+    "price": 33000,
     "priceLocal": 29500,
     "inStock": true,
     "priceNum": "32000",
@@ -742,7 +742,7 @@
     "priceLocal": 9000,
     "banners": [],
     "iva": "10,50%",
-    "stock": 15
+    "stock": 14
   },
   {
     "id": "prod-1778164483674",
@@ -768,10 +768,10 @@
     "price": 42000,
     "priceLocal": 39000,
     "inStock": true,
-    "priceNum": "41000",
-    "cashPrice": "38000",
-    "img": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/apex-wireless-1779911251395.jpg",
-    "gallery": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/apex-wireless-1779911251395.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/00000000004183940001648643-1779911263062.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/00000000004183940002648653-1779911263086.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/00000000004183940003648653-1779911263110.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/000000000041839466700000000000041839466643418394-1-800x800-1779911263136.jpg",
+    "priceNum": "42000",
+    "cashPrice": "39000",
+    "img": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/joystick-apex-wireless-3-1780947419837.jpg",
+    "gallery": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/joystick-apex-wireless-3-1780947419837.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/00000000004183940001648643-1779911263062.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/00000000004183940002648653-1779911263086.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/00000000004183940003648653-1779911263110.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-negro/000000000041839466700000000000041839466643418394-1-800x800-1779911263136.jpg",
     "desc": "🎮 Gamepad Inalámbrico Multifunción con RGB  \nCompatibilidad amplia y rendimiento preciso para tus juegos.\n\n🖥️ Compatible con: PS / PC / Switch / Android\n\n🔋 Batería: 600 mAh, hasta 10 horas de uso continuo\n\n⚡ Carga rápida: puerto USB Tipo C, tiempo de carga aprox. 3 h\n\n📡 Bluetooth: alcance de hasta 8 m\n\n🌈 Iluminación RGB: diseño gamer con estilo\n\n🎯 Palancas con sensor Hall: mayor precisión y durabilidad\n\n🚀 Función Turbo y programación: personalización avanzada para cada juego\n\n🔊 Consumo eficiente: corriente de trabajo < 100 mA\n\n🔌 Cable incluido: Tipo C\n\n✅ Ideal para gamers que buscan comodidad, estilo y control preciso en múltiples plataformas.",
     "customButtons": [
       {
@@ -789,7 +789,9 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "iva": "21,00%",
-    "stock": 5
+    "stock": 5,
+    "video": "",
+    "videoUrl": ""
   },
   {
     "id": "PROD-MPIE6ZV70J2D",
@@ -813,7 +815,7 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "videoUrl": "https://www.youtube.com/shorts/mccm3ivIs_g",
-    "stock": 5,
+    "stock": 3,
     "iva": "21,00%",
     "video": "https://www.youtube.com/shorts/mccm3ivIs_g"
   },
@@ -841,7 +843,7 @@
     "category3": "refrigeracion",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 9
+    "stock": 8
   },
   {
     "img": "img/productos/Conversor displayport a vga .png",
@@ -933,7 +935,7 @@
     "category2": "",
     "category3": "",
     "iva": "21,00%",
-    "stock": 22
+    "stock": 21
   },
   {
     "img": "img\\productos\\astria 200.png",
@@ -1006,7 +1008,7 @@
     "category3": "Cables",
     "gallery": "img/productos/cuna-soporte-cooler-mother-amd-am4-ryzen-tornillos/anclaje-para-disipador-am4-1779127136866.jpg,img\\des\\anclaje para disipador am4 des.png",
     "iva": "21,00%",
-    "stock": 3
+    "stock": 2
   },
   {
     "img": "img/productos/hiksemi-ssd-128gb.png",
@@ -1038,7 +1040,7 @@
     "desc": "Capacity 960 GB\nMax. Seq. Read (MB/S) 530 MB/s\nMax. Seq. Write (MB/S) 400 MB/s\nMax. Ran. 4K read IOPS 30K\nMax. Ran. 4K write IOPS 50K\nMax. Power Consumption 1.3W\nTBW 80TB\nStorage Medium 3D NAND\nInterface SATA III\nMTBF 1,500,000 hours\nOperation temperature 0-70 °C\nStorage temperature -40 °C to 85 °C\nWeight = 34.4 g",
     "priceVisible": "$239.500",
     "subcategoria": "1TB",
-    "price": 242000,
+    "price": 242500,
     "priceLocal": 235500,
     "inStock": true,
     "id": "prod-disco-ssd-hiksemi-wave-960gb-255",
@@ -1099,7 +1101,7 @@
     "category2": "",
     "category3": "",
     "iva": "10,50%",
-    "stock": 8
+    "stock": 7
   },
   {
     "id": "prod-display-port-1-5m-8k-589",
@@ -1116,7 +1118,7 @@
     "title": "Escritorio Gamer Raptor Glow Station SE RGB via USB c/portavasos + porta auricular",
     "priceVisible": "$149.000",
     "subcategoria": "Escritorio",
-    "price": 152500,
+    "price": 153000,
     "priceLocal": 143500,
     "inStock": true,
     "id": "prod-escritorio-gamer-raptor-glow-s-301",
@@ -1340,7 +1342,7 @@
     "gallery": "img\\productos\\fuente 650w msi 80 plus bronze\\fuente msi 650w .png,img\\productos\\fuente 650w msi 80 plus bronze\\fuente msi 650w 2.png,img\\productos\\fuente 650w msi 80 plus bronze\\fuente msi 650w 1.png",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 8
+    "stock": 7
   },
   {
     "img": "img\\productos\\fuente raptor 800w 80 plus gold.png",
@@ -1348,8 +1350,8 @@
     "desc": "Color: Negro\nCertificación de eficiencia: 80 Plus Gold\nDiámetro del ventilador: 12 cm\nFrecuencia: 60 Hz\nTipo de modulación: Modular\nCon funcionamiento silencioso: Sí\nCon iluminación RGB: No\nPotencial: 1000W\nEntrada de CA: 100V-240V\nConectores:24PIN (20+4PIN)SATA + SATA + IDE PCIE 5.1 8PIN (4+4PIN) 8PIN (6+2PIN)",
     "priceVisible": "$132.500",
     "subcategoria": "1000w",
-    "price": 149000,
-    "priceLocal": 136000,
+    "price": 149500,
+    "priceLocal": 136500,
     "inStock": true,
     "id": "prod-fuente-raptor-volt-1000w-461",
     "priceNum": "145500",
@@ -1368,7 +1370,7 @@
     "id": "prod-1778107250638",
     "title": "Fuente Raptor Volt 500W 80 Plus Bronze",
     "img": "img\\productos\\raptor 650w 80plus bronze.png",
-    "desc": "500w – 80 plus Bronze",
+    "desc": "🔌 Fuente Raptor Volt 500W 80 Plus Bronze  \nEnergía confiable y eficiente para tu PC.\n\n🛡️ Certificación 80 Plus Bronze: mejor eficiencia energética y menor consumo.\n\n🔒 Protecciones avanzadas: contra sobrecarga, sobrevoltaje y cortocircuito.\n\n✅ Una opción segura y eficiente para garantizar rendimiento estable y duradero en tu equipo.",
     "video": "",
     "category": "fuentes",
     "category2": "nuevos",
@@ -1378,50 +1380,54 @@
     "price": 69500,
     "priceLocal": 60500,
     "banners": [],
-    "priceNum": "67500",
-    "cashPrice": "59000",
+    "priceNum": "69500",
+    "cashPrice": "60500",
     "customButtons": [],
     "category3": "destacados",
     "gallery": "img\\productos\\raptor 650w 80plus bronze.png,img\\productos\\Fuente Raptor Volt 650W 80 Plus Bronze (7190)\\Fuente Raptor Volt 650W 80 Plus Bronze 03 (1).jpg,img\\productos\\Fuente Raptor Volt 650W 80 Plus Bronze (7190)\\Fuente Raptor Volt 650W 80 Plus Bronze 01.jpg,img\\productos\\Fuente Raptor Volt 650W 80 Plus Bronze (7190)\\Fuente Raptor Volt 650W 80 Plus Bronze 02.jpg",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 25
+    "stock": 25,
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
     "id": "prod-1778107677885",
     "title": "Fuente Raptor Volt 500W 80 Plus Silver Blanco",
     "img": "img\\productos\\RAPTOR VOLT 500W SILVER WHITE\\FUENTE RAPTOR 500W SILVER.png",
-    "desc": "500w – 80 plus SILVER",
+    "desc": "🔌 Fuente Raptor Volt 500W 80 Plus Silver  \nEnergía confiable y eficiente para tu PC.\n\n⚡ Potencia real: 500W\n\n🛡️ Certificación 80 Plus Silver: mayor eficiencia energética y menor consumo.\n\n🔒 Protecciones avanzadas: contra sobrecarga, sobrevoltaje y cortocircuito.\n\n✅ Una opción segura y eficiente para garantizar rendimiento estable y duradero en tu equipo.",
     "video": "",
     "category": "fuentes",
     "category2": "destacados",
     "subcategoria": "500w",
     "inStock": true,
     "slug": "fuente-raptor-volt-500w-80-plus-silver-blanco",
-    "price": 77500,
+    "price": 78000,
     "priceLocal": 71000,
     "banners": [],
-    "priceNum": "75500",
-    "cashPrice": "69000",
+    "priceNum": "78000",
+    "cashPrice": "71000",
     "customButtons": [],
     "category3": "nuevos",
     "gallery": "img\\productos\\RAPTOR VOLT 500W SILVER WHITE\\FUENTE RAPTOR 500W SILVER.png,img\\productos\\RAPTOR VOLT 500W SILVER WHITE\\000000000041825546740fuente-rap.jpg,img\\productos\\RAPTOR VOLT 500W SILVER WHITE\\0000000000418255000146751fuente-rap3_800x800.jpg,img\\productos\\RAPTOR VOLT 500W SILVER WHITE\\0000000000418255000246751fuente-rap2_800x800.jpg",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 5
+    "stock": 5,
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
     "id": "prod-1778107461514",
     "title": "Fuente Raptor Volt 500W 80 Plus Silver Negro",
     "img": "img\\productos\\FUENTE RAPTOR 500W SILVER BLACK\\FUENTE RAPTOR 500W SILVER BLACK.png",
-    "desc": "500w – 80 plus SILVER",
+    "desc": "🔌 Fuente Raptor Volt 500W 80 Plus Silver  \nEnergía confiable y eficiente para tu PC.\n\n⚡ Potencia real: 500W\n\n🛡️ Certificación 80 Plus Silver: mayor eficiencia energética y menor consumo.\n\n🔒 Protecciones avanzadas: contra sobrecarga, sobrevoltaje y cortocircuito.\n\n✅ Una opción segura y eficiente para garantizar rendimiento estable y duradero en tu equipo",
     "video": "",
     "category": "fuentes",
     "category2": "nuevos",
     "subcategoria": "500w",
     "inStock": true,
     "slug": "fuente-raptor-volt-500w-80-plus-silver-negro",
-    "price": 77500,
+    "price": 78000,
     "priceLocal": 71000,
     "banners": [],
     "priceNum": "78000",
@@ -1432,7 +1438,8 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "iva": "21,00%",
-    "stock": 5
+    "stock": 5,
+    "videoUrl": ""
   },
   {
     "img": "img\\productos\\raptor 650w 80plus bronze.png, img\\productos\\Fuente Raptor Volt 650W 80 Plus Bronze (7190)\\Fuente Raptor Volt 650W 80 Plus Bronze 03 (1).jpg, img\\productos\\Fuente Raptor Volt 650W 80 Plus Bronze (7190)\\Fuente Raptor Volt 650W 80 Plus Bronze 03.jpg, img\\productos\\Fuente Raptor Volt 650W 80 Plus Bronze (7190)\\Fuente Raptor Volt 650W 80 Plus Bronze 01.jpg, img\\productos\\Fuente Raptor Volt 650W 80 Plus Bronze (7190)\\Fuente Raptor Volt 650W 80 Plus Bronze 02.jpg",
@@ -1580,7 +1587,7 @@
     "priceVisible": "$59.000",
     "subcategoria": "ITX/MATX/ATX",
     "price": 60000,
-    "priceLocal": 56500,
+    "priceLocal": 57000,
     "inStock": true,
     "id": "prod-gabinete-mlogix-view-max-270-w-226",
     "priceNum": "59500",
@@ -1661,7 +1668,7 @@
     "priceVisible": "$59.000",
     "subcategoria": "ITX/MATX",
     "price": 60500,
-    "priceLocal": 56500,
+    "priceLocal": 57000,
     "inStock": true,
     "id": "prod-gabinete-raptor-thunder-strike-510",
     "priceNum": "59000",
@@ -1781,7 +1788,7 @@
     "subcategoria": "Mesh",
     "price": 79500,
     "priceLocal": 72500,
-    "inStock": true,
+    "inStock": false,
     "id": "prod-halo-h30-pack-de-3-mesh-mercus-147",
     "priceNum": "77500",
     "cashPrice": "73000",
@@ -1796,7 +1803,7 @@
     "category2": "",
     "category3": "",
     "iva": "10,50%",
-    "stock": 1
+    "stock": 0
   },
   {
     "img": "img/productos/hdmi 10M  kelyx 4k .png",
@@ -1896,7 +1903,7 @@
     "category": "Herramientas",
     "category2": "",
     "iva": "21,00%",
-    "stock": 2
+    "stock": 1
   },
   {
     "id": "prod-1778195407738",
@@ -1961,7 +1968,7 @@
     "gallery": "img/productos/Manta antiestatica.png",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 14
+    "stock": 13
   },
   {
     "id": "prod-memoria-ddr4-8-gb-3200-mhz-hik-93",
@@ -1976,7 +1983,7 @@
     "id": "PROD-MPIFGH0RJXMM",
     "title": "Memoria DDR4 HIKSEMI 16Gb 3200 MHz Hiker (7222)",
     "price": 240000,
-    "priceLocal": 235500,
+    "priceLocal": 236000,
     "inStock": true,
     "priceNum": "235000",
     "cashPrice": "231000",
@@ -2045,8 +2052,8 @@
     "subcategoria": "DDR5",
     "inStock": false,
     "slug": "memoria-ddr5-corsair-8gb-5200-mhz",
-    "price": 263000,
-    "priceLocal": 246500,
+    "price": 263500,
+    "priceLocal": 247000,
     "banners": [],
     "priceNum": "256500",
     "cashPrice": "241000",
@@ -2165,8 +2172,8 @@
     "title": "MICROPROCESADOR AMD RYZEN 5 8600G AM5 C/VID C/COOL",
     "priceVisible": "$303.000",
     "subcategoria": "AM5",
-    "price": 324000,
-    "priceLocal": 306000,
+    "price": 324500,
+    "priceLocal": 306500,
     "inStock": true,
     "id": "prod-micro-amd-ryzen-5-8600g-am5-c--381",
     "priceNum": "315500",
@@ -2235,8 +2242,8 @@
     "desc": "- 🧠 CPU: Intel Core i3‑1215U\n- 🧩 Memoria RAM: 8 GB DDR4 SO‑DIMM\n- 💾 Almacenamiento: M.2 PCIe Gen3 – 256 GB\n- 📡 Wi-Fi 5 + Bluetooth 5.1\n- 🔌 Puertos: USB, USB-C, HDMI, DisplayPort, LAN",
     "priceVisible": "$645.500",
     "subcategoria": "Mini pc",
-    "price": 669000,
-    "priceLocal": 658500,
+    "price": 669500,
+    "priceLocal": 659000,
     "inStock": false,
     "id": "prod-mini-pc-kelyx-intel-core-i3-12-474",
     "priceNum": "664500",
@@ -2331,8 +2338,8 @@
     "subcategoria": "200hz",
     "inStock": true,
     "slug": "monitor-gamer-raptor-hawk-eye-27-frameless-ips-fhd-200hz-1ms-hdmi-dp",
-    "price": 277500,
-    "priceLocal": 258000,
+    "price": 278000,
+    "priceLocal": 258500,
     "banners": [
       "moniitores"
     ],
@@ -2499,7 +2506,7 @@
   {
     "id": "PROD-MPIF4QO77PR1",
     "title": "Mother Gigabyte B550M K DDR4 AM4 (Serie 3000/4000/5000) (2764)",
-    "price": 150500,
+    "price": 151000,
     "priceLocal": 142500,
     "inStock": true,
     "priceNum": "147500",
@@ -2649,7 +2656,7 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 4
+    "stock": 2
   },
   {
     "id": "prod-1778195022789",
@@ -2979,7 +2986,7 @@
     "subcategoria": "mouse pad",
     "price": 14500,
     "priceLocal": 13000,
-    "inStock": true,
+    "inStock": false,
     "id": "prod-mouse-pad-gamer-raptor-ultra-g-419",
     "priceNum": "14000",
     "cashPrice": "13000",
@@ -2992,7 +2999,7 @@
     "category3": "",
     "gallery": "img/productos/Mouse pad Raptor XL.png",
     "iva": "21,00%",
-    "stock": 2
+    "stock": 0
   },
   {
     "id": "prod-1778161513682",
@@ -3069,8 +3076,8 @@
     "desc": "- 🧠 Procesador: AMD Barcelo Ryzen 5‑7430U\n- 🎮 Gráficos: Radeon integrados\n- 🧩 Memoria RAM: 8 GB DDR4 Sodimm\n- 💾 Almacenamiento: M.2 2280 256 GB PCIe 3.0 ×4\n- 🖥️ Sistema operativo: Windows 11 Home\n- 📺 Pantalla: 15.6” Full HD IPS\n- 🔋 Batería: Li‑ion 11.4V 5100 mAh",
     "priceVisible": "$818.000",
     "subcategoria": "Notebook",
-    "price": 853500,
-    "priceLocal": 806000,
+    "price": 854500,
+    "priceLocal": 806500,
     "inStock": true,
     "id": "prod-notebook-kelyx-15-6-fhd-amd-ry-211",
     "priceNum": "830500",
@@ -3139,7 +3146,7 @@
     "customButtons": [],
     "category3": "",
     "iva": "21,00%",
-    "stock": 10
+    "stock": 9
   },
   {
     "img": "img/productos/pad termico coldium 15.4w_m-k 1.5mm 50x50.png",
@@ -3159,7 +3166,7 @@
     "category2": "Placas de video",
     "category3": "",
     "iva": "21,00%",
-    "stock": 14
+    "stock": 12
   },
   {
     "img": "img/productos/pad termico Uranus 0.5mm 50x50.png",
@@ -3315,7 +3322,7 @@
     "category2": "red",
     "category3": "",
     "iva": "21,00%",
-    "stock": 7
+    "stock": 6
   },
   {
     "id": "prod-pc-raptor-thunderstrike-white--287",
@@ -3381,7 +3388,7 @@
     ],
     "category3": "",
     "iva": "21,00%",
-    "stock": 2
+    "stock": 1
   },
   {
     "img": "img/productos/Pen drive 64gb 3.0.png",
@@ -3390,7 +3397,7 @@
     "priceVisible": "$22.000",
     "subcategoria": "Pen drive",
     "price": 23000,
-    "priceLocal": 21500,
+    "priceLocal": 22000,
     "inStock": true,
     "id": "prod-pen-drive-hiksemi-64gb-m200-cl-881",
     "priceNum": "22000",
@@ -3418,7 +3425,7 @@
     "inStock": true,
     "slug": "pen-drive-kingston-128gb-usb-3-2-dtxs",
     "price": 34500,
-    "priceLocal": 30500,
+    "priceLocal": 31000,
     "banners": [],
     "iva": "21,00%",
     "stock": 1
@@ -3470,8 +3477,8 @@
   {
     "id": "PROD-MPIFPUNPKK00",
     "title": "Proces. AMD Ryzen 5 8400F AM5 SIN VIDEO CON COOLER (6736)",
-    "price": 298500,
-    "priceLocal": 282000,
+    "price": 299000,
+    "priceLocal": 282500,
     "inStock": true,
     "priceNum": "292500",
     "cashPrice": "276500",
@@ -3497,7 +3504,7 @@
     "id": "PROD-MPIF8YN3FUNE",
     "title": "Proces. AMD Ryzen 7 5700 AM4 SIN VIDEO CON COOLER (7856)",
     "price": 298500,
-    "priceLocal": 281500,
+    "priceLocal": 282000,
     "inStock": true,
     "priceNum": "292000",
     "cashPrice": "276000",
@@ -3592,7 +3599,7 @@
     "category2": "nuevos",
     "category3": "",
     "iva": "10,50%",
-    "stock": 7
+    "stock": 6
   },
   {
     "img": "img/productos/Cable usb a tipo C.png",
@@ -3682,7 +3689,7 @@
     "category3": "",
     "gallery": "img/productos/legend nvme 256gb.png,img\\productos\\legend_700_3.png,img\\productos\\legend700_a2_1500x1500.jpg",
     "iva": "10,50%",
-    "stock": 6
+    "stock": 5
   },
   {
     "img": "img\\productos\\ssd p210 256gb patriot (2).png",
@@ -3755,7 +3762,7 @@
     "desc": "Capacidad: 512GB.\nInterfaz: PCIe Gen 3.0 NVMe (80mm x 22mm x 2.4mm).\nTipo de Dispositivo: Unidad de Estado Solido Interno (SSD)\nConsumo de energía (MAX) (W): 4.5W\nTemperatura no operativa: -40 °C a 85 °C\nTemperatura de funcionamiento: 0 °C a 70 °C\nLectura secuencial Maxima: 3520 MB/s\nEscritura secuencial Maxima: 2900 MB/s\nTamaño: 80 x 22 x 2,4 mm\nPeso: 7g",
     "priceVisible": "$142.000",
     "subcategoria": "512GB",
-    "price": 148000,
+    "price": 148500,
     "priceLocal": 140000,
     "inStock": true,
     "id": "prod-ssd-wave-p-512gb-m2-pcie-3-0-h-352",
@@ -3775,7 +3782,7 @@
     "category3": "",
     "gallery": "img/productos/hiksemi nvme 512gb 3.0.png,img\\productos\\512gb hiksemi wave.jpg",
     "iva": "10,50%",
-    "stock": 5
+    "stock": 4
   },
   {
     "id": "prod-1778171188148",
@@ -3967,7 +3974,7 @@
     "category2": "",
     "category3": "",
     "iva": "10,50%",
-    "stock": 7
+    "stock": 6
   },
   {
     "img": "img\\productos\\SCORPION GAMING KB K7PLUS TECLADO GENIUS.png",
@@ -4099,7 +4106,7 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 112
+    "stock": 108
   },
   {
     "id": "prod-1778160628410",
@@ -4121,7 +4128,7 @@
     "customButtons": [],
     "category3": "",
     "iva": "21,00%",
-    "stock": 6
+    "stock": 4
   },
   {
     "img": "img\\productos\\cooler fan Id-Cooling FL-12025 Blanco.png",
@@ -4151,8 +4158,8 @@
     "desc": "🎮 GPU: GeForce RTX™ 5050\n⚡ Reloj central: 2632 MHz (ref. 2572 MHz)\n🧮 Núcleos CUDA®: 2560\n💾 Memoria: 8 GB GDDR6\n🚀 Velocidad de memoria: 20 Gbps\n📐 Bus de memoria: 128 bits\n🔌 Interfaz: PCI-E 5.0\n🖥️ Resolución máxima digital: 7680×4320 (8K)",
     "priceVisible": "$615.000",
     "subcategoria": "nvidia",
-    "price": 634500,
-    "priceLocal": 613500,
+    "price": 635000,
+    "priceLocal": 614000,
     "inStock": true,
     "id": "prod-vga-gigabyte-geforce-rtx-5050--811",
     "priceNum": "621500",
@@ -4182,7 +4189,7 @@
     "priceVisible": "$576.000",
     "subcategoria": "nvidia",
     "price": 601500,
-    "priceLocal": 579000,
+    "priceLocal": 579500,
     "inStock": true,
     "id": "prod-vga-msi-geforce-rtx-5050-ventu-538",
     "priceNum": "589000",
@@ -4241,8 +4248,8 @@
     "desc": "PCI Express® Gen 5 x16, 2535 MHz, 3840 CUDA Cores, 28 Gbps, 8GB GDDR7, 128-bit, DisplayPort x3, HDMI x1, Fuente mínima 550W",
     "priceVisible": "$728.500",
     "subcategoria": "nvidia",
-    "price": 750500,
-    "priceLocal": 717000,
+    "price": 751000,
+    "priceLocal": 717500,
     "inStock": true,
     "id": "prod-vga-msi-geforce-rtx-5060-8g-ve-357",
     "priceNum": "735000",
@@ -4318,7 +4325,7 @@
     "title": "Water Cooling Raptor Aqua Core 360 3x CPU Cooler 360mm Negro",
     "priceVisible": "$105.000",
     "subcategoria": "Water cooling",
-    "price": 106500,
+    "price": 107000,
     "priceLocal": 94500,
     "inStock": true,
     "id": "prod-water-cooling-raptor-aqua-core-315",
