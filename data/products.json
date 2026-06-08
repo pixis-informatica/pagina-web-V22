@@ -657,6 +657,70 @@
     "videoUrl": "https://youtube.com/shorts/xtdX0oI55QA?si=_1Vyhr565kehxQKh"
   },
   {
+    "img": "img\\des\\thunderstrike white.png",
+    "gallery": "img\\des\\thunderstrike white.png,img\\des\\thunderstrike-white-des.png,img\\des\\thunderstrike-white-des2.png",
+    "title": "Gabinete Raptor Thunder Strike TG x2 Mid-Tower RGB Fan x1 White",
+    "priceVisible": "$59.000",
+    "subcategoria": "ITX/MATX",
+    "price": 58000,
+    "priceLocal": 55000,
+    "inStock": true,
+    "id": "prod-gabinete-raptor-thunder-strike-662",
+    "priceNum": "58000",
+    "cashPrice": "55000",
+    "desc": "📏 Dimensiones: 390 × 228 × 390 mm\n\n🖼️ Panel frontal: Vidrio templado completo\n\n🖼️ Panel lateral izquierdo: Vidrio templado completo\n\n🧩 Compatibilidad de placa base: Micro ATX, Mini-ITX\n\n🔌 Puertos:1× USB 3.0• 1× USB 2.0• Audio HD\n\n💾 Bahías para unidades: 1× HDD 3.5 • 1× SSD 2.5\n\n🎮 Longitud máxima GPU: 380 mm\n\n🎨 Color: Negro",
+    "customButtons": [
+      {
+        "label": "review",
+        "link": "https://youtube.com/shorts/uOrmUBiEtEo?si=0KZxQ_l0P9QucPd8"
+      }
+    ],
+    "banners": [
+      "gabinetes-raptor"
+    ],
+    "category": "gabinetes",
+    "category2": "destacados",
+    "category3": "",
+    "iva": "10,50%",
+    "stock": 10,
+    "video": "https://youtube.com/shorts/uOrmUBiEtEo?si=PczwPstGkqaYi4mH",
+    "videoUrl": "https://youtube.com/shorts/uOrmUBiEtEo?si=PczwPstGkqaYi4mH",
+    "proximoIngreso": false,
+    "excludeFromExport": false
+  },
+  {
+    "img": "img/productos/monitor-asus-22-full-hd-100hz/vp227-1780950267716.jpg",
+    "gallery": "img/productos/monitor-asus-22-full-hd-100hz/vp227-1780950267716.jpg,img/productos/monitor-asus-22-full-hd-100hz/atras-1780950267262.jpg",
+    "title": "MONITOR ASUS 22 FULL HD 100HZ",
+    "desc": "✅🔌 Puertos de Entrada/Salida: HDMI (v1.4) × 1 | VGA × 1 | Jack para auriculares\n✅📡 Frecuencia de Señal: Digital (HDMI): 30–100 Hz (V) | Analógica (VGA): 30–76 Hz (V)\n✅⚡ Consumo de Energía: Uso: <9.97 W | Ahorro: <0.5 W | Apagado: <0.3 W | Voltaje: 100–240 V, 50/60 Hz\n✅🛠️ Diseño Mecánico: Inclinación: Sí (+20° ~ -5°) | Ajuste de altura: No | Montaje VESA: 100 × 100 mm | Bloqueo Kensington: Sí\n✅📐 Dimensiones: 22 pulgadas\n✅⚖️ Peso: Neto con base: 2.6 kg | Neto sin base: 2.3 kg | Bruto: 4.1 kg\n✅🎁 Accesorios Incluidos: Cable HDMI | Cable de energía | Guía rápida | Tarjeta de garantía\n✅🏅 Certificaciones: Energy Star | EPEAT Silver | TCO Certified | TÜV Flicker-free | TÜV Low Blue Light | FSC MIX",
+    "priceVisible": "$152.500",
+    "subcategoria": "100hz",
+    "price": 160500,
+    "priceLocal": 149000,
+    "inStock": true,
+    "id": "prod-monitor-asus-22-full-hd-100hz-942",
+    "priceNum": "160500",
+    "cashPrice": "149000",
+    "customButtons": [
+      {
+        "label": "review",
+        "link": "https://www.asus.com/ar/displays-desktops/monitors/eye-care/vy229hf/"
+      }
+    ],
+    "banners": [
+      "moniitores"
+    ],
+    "category": "monitores",
+    "category2": "destacados",
+    "category3": "",
+    "excludeFromExport": false,
+    "proximoIngreso": false,
+    "iva": "21,00%",
+    "stock": 13,
+    "video": "",
+    "videoUrl": ""
+  },
+  {
     "img": "img/productos/camara-de-seguridad-tapo-c310-tp-link/tapo-c310-camara-de-seguridad-1780098488868.jpg",
     "gallery": "img/productos/camara-de-seguridad-tapo-c310-tp-link/tapo-c310-camara-de-seguridad-1780098488868.jpg,img\\productos\\TAPO C310 Camara IP DayNight SD Wifi Exterior (0911)\\1_normal_1599194402144s.jpg,img\\productos\\TAPO C310 Camara IP DayNight SD Wifi Exterior (0911)\\2_normal_1599194417653c.jpg,img\\productos\\TAPO C310 Camara IP DayNight SD Wifi Exterior (0911)\\3_normal_1599194429663y.jpg,img\\productos\\TAPO C310 Camara IP DayNight SD Wifi Exterior (0911)\\4_normal_1599194441148o.jpg",
     "title": "Camara de seguridad TAPO C310 TP-Link",
@@ -810,32 +874,6 @@
     "stock": 5,
     "video": "",
     "videoUrl": ""
-  },
-  {
-    "id": "PROD-MPIE6ZV70J2D",
-    "title": "Control Raptor Apex Wireless p/PC/PS3/Swith/Android White (7619)",
-    "price": 42000,
-    "priceLocal": 39000,
-    "inStock": true,
-    "priceNum": "42000",
-    "cashPrice": "39000",
-    "img": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/joystick-apex-white-wireless-1780950681443.jpg",
-    "gallery": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/joystick-apex-white-wireless-1780950681443.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000148096control-raptor-wh-06-800x800-1779911494835.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000248096control-raptor-wh-05-800x800-1779911494890.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000348097control-raptor-wh-04-800x800-1779911494923.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/000000000041839324859418393-1-800x800-1779911494961.jpg",
-    "desc": "🎮 Gamepad Inalámbrico Multifunción con RGB  \nCompatibilidad amplia y rendimiento preciso para tus juegos.\n\n🖥️ Compatible con: PS / PC / Switch / Android\n\n🔋 Batería: 600 mAh, hasta 10 horas de uso continuo\n\n⚡ Carga rápida: puerto USB Tipo C, tiempo de carga aprox. 3 h\n\n📡 Bluetooth: alcance de hasta 8 m\n\n🌈 Iluminación RGB: diseño gamer con estilo\n\n🎯 Palancas con sensor Hall: mayor precisión y durabilidad\n\n🚀 Función Turbo y programación: personalización avanzada para cada juego\n\n🔊 Consumo eficiente: corriente de trabajo < 100 mA\n\n🔌 Cable incluido: Tipo C\n\n✅ Ideal para gamers que buscan comodidad, estilo y control preciso en múltiples plataformas.",
-    "customButtons": [],
-    "banners": [
-      "joysticksraptorapex"
-    ],
-    "subcategoria": "Joystick",
-    "category": "Periféricos",
-    "category2": "nuevos",
-    "category3": "destacados",
-    "excludeFromExport": false,
-    "proximoIngreso": false,
-    "videoUrl": "",
-    "stock": 3,
-    "iva": "21,00%",
-    "video": ""
   },
   {
     "id": "PROD-MPEH1T84087F",
@@ -1402,6 +1440,36 @@
     "stock": 1
   },
   {
+    "img": "img\\productos\\rtx 5060 ventus white.png",
+    "gallery": "img\\productos\\rtx 5060 ventus white.png,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\msi-8g-ventus-2x-oc-thermal-heat-pipes.png,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\msi-ventus-thermal-torx-fan.png,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\product_1745313867fc830217de0b3be0638273c1c09fe9d2 (1).webp,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\product_17453138693d3261cc10c4389ca376e5d822c605cc.webp",
+    "title": "VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE",
+    "desc": "PCI Express® Gen 5 x16, 2535 MHz, 3840 CUDA Cores, 28 Gbps, 8GB GDDR7, 128-bit, DisplayPort x3, HDMI x1, Fuente mínima 550W",
+    "priceVisible": "$728.500",
+    "subcategoria": "nvidia",
+    "price": 751000,
+    "priceLocal": 717500,
+    "inStock": true,
+    "id": "prod-vga-msi-geforce-rtx-5060-8g-ve-357",
+    "priceNum": "735000",
+    "cashPrice": "702500",
+    "customButtons": [
+      {
+        "label": "review",
+        "link": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-8G-VENTUS-2X-OC-WHITE/Overview"
+      }
+    ],
+    "banners": [
+      "geforcertxseries50"
+    ],
+    "category": "Placas de video",
+    "category2": "destacados",
+    "category3": "",
+    "proximoIngreso": false,
+    "excludeFromExport": false,
+    "iva": "10,50%",
+    "stock": 1
+  },
+  {
     "id": "prod-1778107250638",
     "title": "Fuente Raptor Volt 500W 80 Plus Bronze",
     "img": "img\\productos\\raptor 650w 80plus bronze.png",
@@ -1424,6 +1492,80 @@
     "iva": "21,00%",
     "stock": 25,
     "videoUrl": "",
+    "proximoIngreso": false
+  },
+  {
+    "id": "PROD-MPIE6ZV70J2D",
+    "title": "Control Raptor Apex Wireless p/PC/PS3/Swith/Android White (7619)",
+    "price": 42000,
+    "priceLocal": 39000,
+    "inStock": true,
+    "priceNum": "42000",
+    "cashPrice": "39000",
+    "img": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/joystick-apex-white-wireless-1780950681443.jpg",
+    "gallery": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/joystick-apex-white-wireless-1780950681443.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000148096control-raptor-wh-06-800x800-1779911494835.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000248096control-raptor-wh-05-800x800-1779911494890.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000348097control-raptor-wh-04-800x800-1779911494923.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/000000000041839324859418393-1-800x800-1779911494961.jpg",
+    "desc": "🎮 Gamepad Inalámbrico Multifunción con RGB  \nCompatibilidad amplia y rendimiento preciso para tus juegos.\n\n🖥️ Compatible con: PS / PC / Switch / Android\n\n🔋 Batería: 600 mAh, hasta 10 horas de uso continuo\n\n⚡ Carga rápida: puerto USB Tipo C, tiempo de carga aprox. 3 h\n\n📡 Bluetooth: alcance de hasta 8 m\n\n🌈 Iluminación RGB: diseño gamer con estilo\n\n🎯 Palancas con sensor Hall: mayor precisión y durabilidad\n\n🚀 Función Turbo y programación: personalización avanzada para cada juego\n\n🔊 Consumo eficiente: corriente de trabajo < 100 mA\n\n🔌 Cable incluido: Tipo C\n\n✅ Ideal para gamers que buscan comodidad, estilo y control preciso en múltiples plataformas.",
+    "customButtons": [],
+    "banners": [
+      "joysticksraptorapex"
+    ],
+    "subcategoria": "Joystick",
+    "category": "Periféricos",
+    "category2": "nuevos",
+    "category3": "destacados",
+    "excludeFromExport": false,
+    "proximoIngreso": false,
+    "videoUrl": "",
+    "stock": 3,
+    "iva": "21,00%",
+    "video": ""
+  },
+  {
+    "id": "prod-1780001581399",
+    "title": "PC GAMER RAPTOR THUNDER WHITE R7 5700+RTX 5050 VENTUS+512GB",
+    "img": "img/productos/pc-gamer-raptor-thunder-white-r7-5700-rtx-5050-ventus-512gb/pcgamer-white-5050-1780006397322.jpg",
+    "gallery": "img/productos/pc-gamer-raptor-thunder-white-r7-5700-rtx-5050-ventus-512gb/pcgamer-white-5050-1780006397322.jpg",
+    "desc": "🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nPotencia avanzada y estilo gamer con RGB.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6",
+    "video": "",
+    "category": "Notebook",
+    "category2": "destacados",
+    "subcategoria": "PC",
+    "inStock": true,
+    "slug": "pc-gamer-raptor-thunder-white-r7-5700-rtx-5050-ventus-512gb",
+    "price": 1588500,
+    "priceLocal": 1520500,
+    "banners": [
+      "pccombo"
+    ],
+    "priceNum": "1588500",
+    "cashPrice": "1520500",
+    "customButtons": [],
+    "category3": "",
+    "excludeFromExport": true,
+    "proximoIngreso": false
+  },
+  {
+    "id": "prod-1780011383023",
+    "title": "PC GAMER ECLYPSE R7 5700+RTX5050+MONITOR",
+    "img": "img/productos/pc-gamer-eclypse-r7-5700-rtx5050-monitor-16gb-512gb/pc-gamer-eclypse-5050-monitor-1780011203989.jpg",
+    "gallery": "img/productos/pc-gamer-eclypse-r7-5700-rtx5050-monitor-16gb-512gb/pc-gamer-eclypse-5050-monitor-1780011203989.jpg",
+    "desc": "🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nRendimiento extremo con refrigeración líquida y monitor gamer de alta frecuencia.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: Gigabyte B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🖥️ Monitor: LG UltraGear 24\" IPS, 180Hz – fluidez y colores vibrantes para gaming competitivo\n\n🔥 Una configuración pensada para gamers exigentes y creadores de contenido, con potencia gráfica de última generación, refrigeración avanzada y un monitor de alto rendimiento para aprovechar cada frame.",
+    "video": "",
+    "category": "Notebook",
+    "category2": "destacados",
+    "subcategoria": "PC",
+    "inStock": true,
+    "slug": "pc-gamer-eclypse-r7-5700-rtx5050-monitor-16gb-512gb",
+    "price": 1997500,
+    "priceLocal": 1903000,
+    "banners": [
+      "pccombo"
+    ],
+    "priceNum": "1997500",
+    "cashPrice": "1903000",
+    "customButtons": [],
+    "category3": "",
+    "excludeFromExport": true,
     "proximoIngreso": false
   },
   {
@@ -1729,38 +1871,6 @@
     "stock": 4,
     "video": "https://youtube.com/shorts/qxqkMZMj1gc?si=O5lfna1z7MLHv4Vu",
     "videoUrl": "https://youtube.com/shorts/qxqkMZMj1gc?si=O5lfna1z7MLHv4Vu",
-    "proximoIngreso": false,
-    "excludeFromExport": false
-  },
-  {
-    "img": "img\\des\\thunderstrike white.png",
-    "gallery": "img\\des\\thunderstrike white.png,img\\des\\thunderstrike-white-des.png,img\\des\\thunderstrike-white-des2.png",
-    "title": "Gabinete Raptor Thunder Strike TG x2 Mid-Tower RGB Fan x1 White",
-    "priceVisible": "$59.000",
-    "subcategoria": "ITX/MATX",
-    "price": 58000,
-    "priceLocal": 55000,
-    "inStock": true,
-    "id": "prod-gabinete-raptor-thunder-strike-662",
-    "priceNum": "58000",
-    "cashPrice": "55000",
-    "desc": "📏 Dimensiones: 390 × 228 × 390 mm\n\n🖼️ Panel frontal: Vidrio templado completo\n\n🖼️ Panel lateral izquierdo: Vidrio templado completo\n\n🧩 Compatibilidad de placa base: Micro ATX, Mini-ITX\n\n🔌 Puertos:1× USB 3.0• 1× USB 2.0• Audio HD\n\n💾 Bahías para unidades: 1× HDD 3.5 • 1× SSD 2.5\n\n🎮 Longitud máxima GPU: 380 mm\n\n🎨 Color: Negro",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://youtube.com/shorts/uOrmUBiEtEo?si=0KZxQ_l0P9QucPd8"
-      }
-    ],
-    "banners": [
-      "gabinetes-raptor"
-    ],
-    "category": "gabinetes",
-    "category2": "",
-    "category3": "",
-    "iva": "10,50%",
-    "stock": 10,
-    "video": "https://youtube.com/shorts/uOrmUBiEtEo?si=PczwPstGkqaYi4mH",
-    "videoUrl": "https://youtube.com/shorts/uOrmUBiEtEo?si=PczwPstGkqaYi4mH",
     "proximoIngreso": false,
     "excludeFromExport": false
   },
@@ -2321,38 +2431,6 @@
     "stock": 0
   },
   {
-    "img": "img/productos/monitor-asus-22-full-hd-100hz/vp227-1780950267716.jpg",
-    "gallery": "img/productos/monitor-asus-22-full-hd-100hz/vp227-1780950267716.jpg,img/productos/monitor-asus-22-full-hd-100hz/atras-1780950267262.jpg",
-    "title": "MONITOR ASUS 22 FULL HD 100HZ",
-    "desc": "✅🔌 Puertos de Entrada/Salida: HDMI (v1.4) × 1 | VGA × 1 | Jack para auriculares\n✅📡 Frecuencia de Señal: Digital (HDMI): 30–100 Hz (V) | Analógica (VGA): 30–76 Hz (V)\n✅⚡ Consumo de Energía: Uso: <9.97 W | Ahorro: <0.5 W | Apagado: <0.3 W | Voltaje: 100–240 V, 50/60 Hz\n✅🛠️ Diseño Mecánico: Inclinación: Sí (+20° ~ -5°) | Ajuste de altura: No | Montaje VESA: 100 × 100 mm | Bloqueo Kensington: Sí\n✅📐 Dimensiones: 22 pulgadas\n✅⚖️ Peso: Neto con base: 2.6 kg | Neto sin base: 2.3 kg | Bruto: 4.1 kg\n✅🎁 Accesorios Incluidos: Cable HDMI | Cable de energía | Guía rápida | Tarjeta de garantía\n✅🏅 Certificaciones: Energy Star | EPEAT Silver | TCO Certified | TÜV Flicker-free | TÜV Low Blue Light | FSC MIX",
-    "priceVisible": "$152.500",
-    "subcategoria": "100hz",
-    "price": 160500,
-    "priceLocal": 149000,
-    "inStock": true,
-    "id": "prod-monitor-asus-22-full-hd-100hz-942",
-    "priceNum": "160500",
-    "cashPrice": "149000",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.asus.com/ar/displays-desktops/monitors/eye-care/vy229hf/"
-      }
-    ],
-    "banners": [
-      "moniitores"
-    ],
-    "category": "monitores",
-    "category2": "destacados",
-    "category3": "",
-    "excludeFromExport": false,
-    "proximoIngreso": false,
-    "iva": "21,00%",
-    "stock": 13,
-    "video": "",
-    "videoUrl": ""
-  },
-  {
     "id": "prod-1778937108223",
     "title": "Monitor Gamer Raptor Hawk Eye 24\" Frameless IPS FHD 200Hz 1Ms HDMI-DP",
     "img": "img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24-1780953750415.jpg",
@@ -2909,7 +2987,14 @@
     "priceLocal": 30500,
     "banners": [],
     "iva": "10,50%",
-    "stock": 0
+    "stock": 0,
+    "priceNum": "34000",
+    "cashPrice": "30500",
+    "videoUrl": "https://www.logitechg.com/es-ar/shop/p/g203-lightsync-rgb-gaming-mouse.910-005794",
+    "proximoIngreso": false,
+    "customButtons": [],
+    "category3": "",
+    "excludeFromExport": false
   },
   {
     "id": "prod-1778163218334",
@@ -4331,36 +4416,6 @@
     "stock": 0
   },
   {
-    "img": "img\\productos\\rtx 5060 ventus white.png",
-    "gallery": "img\\productos\\rtx 5060 ventus white.png,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\msi-8g-ventus-2x-oc-thermal-heat-pipes.png,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\msi-ventus-thermal-torx-fan.png,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\product_1745313867fc830217de0b3be0638273c1c09fe9d2 (1).webp,img\\productos\\VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE (4296)\\product_17453138693d3261cc10c4389ca376e5d822c605cc.webp",
-    "title": "VGA MSI GeForce RTX 5060 8G VENTUS 2X OC WHITE",
-    "desc": "PCI Express® Gen 5 x16, 2535 MHz, 3840 CUDA Cores, 28 Gbps, 8GB GDDR7, 128-bit, DisplayPort x3, HDMI x1, Fuente mínima 550W",
-    "priceVisible": "$728.500",
-    "subcategoria": "nvidia",
-    "price": 751000,
-    "priceLocal": 717500,
-    "inStock": true,
-    "id": "prod-vga-msi-geforce-rtx-5060-8g-ve-357",
-    "priceNum": "735000",
-    "cashPrice": "702500",
-    "customButtons": [
-      {
-        "label": "review",
-        "link": "https://www.msi.com/Graphics-Card/GeForce-RTX-5060-8G-VENTUS-2X-OC-WHITE/Overview"
-      }
-    ],
-    "banners": [
-      "geforcertxseries50"
-    ],
-    "category": "Placas de video",
-    "category2": "destacados",
-    "category3": "",
-    "proximoIngreso": false,
-    "excludeFromExport": false,
-    "iva": "10,50%",
-    "stock": 1
-  },
-  {
     "img": "img\\des\\msi a13 240 des.png",
     "title": "Water cooling Msi A13 240",
     "priceVisible": "$126.000",
@@ -4486,54 +4541,6 @@
     "category3": "",
     "iva": "10,50%",
     "stock": 1
-  },
-  {
-    "id": "prod-1780001581399",
-    "title": "PC GAMER RAPTOR THUNDER WHITE R7 5700+RTX 5050 VENTUS+512GB",
-    "img": "img/productos/pc-gamer-raptor-thunder-white-r7-5700-rtx-5050-ventus-512gb/pcgamer-white-5050-1780006397322.jpg",
-    "gallery": "img/productos/pc-gamer-raptor-thunder-white-r7-5700-rtx-5050-ventus-512gb/pcgamer-white-5050-1780006397322.jpg",
-    "desc": "🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nPotencia avanzada y estilo gamer con RGB.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6",
-    "video": "",
-    "category": "Notebook",
-    "category2": "destacados",
-    "subcategoria": "PC",
-    "inStock": true,
-    "slug": "pc-gamer-raptor-thunder-white-r7-5700-rtx-5050-ventus-512gb",
-    "price": 1588500,
-    "priceLocal": 1520500,
-    "banners": [
-      "pccombo"
-    ],
-    "priceNum": "1588500",
-    "cashPrice": "1520500",
-    "customButtons": [],
-    "category3": "",
-    "excludeFromExport": true,
-    "proximoIngreso": false
-  },
-  {
-    "id": "prod-1780011383023",
-    "title": "PC GAMER ECLYPSE R7 5700+RTX5050+MONITOR",
-    "img": "img/productos/pc-gamer-eclypse-r7-5700-rtx5050-monitor-16gb-512gb/pc-gamer-eclypse-5050-monitor-1780011203989.jpg",
-    "gallery": "img/productos/pc-gamer-eclypse-r7-5700-rtx5050-monitor-16gb-512gb/pc-gamer-eclypse-5050-monitor-1780011203989.jpg",
-    "desc": "🎮 PC Gamer Ryzen 7 5700 + RTX 5050 Ventus X2  \nRendimiento extremo con refrigeración líquida y monitor gamer de alta frecuencia.\n\n⚙️ Procesador: AMD Ryzen 7 5700\n\n🧩 Motherboard: Gigabyte B550M-K (AM4)\n\n💾 Memoria RAM: Hiksemi Hiker DDR4 16GB 3200MHz\n\n🚀 Almacenamiento: SSD NVMe 512GB ultrarrápido\n\n🔌 Fuente: 650W 80 Plus Bronze\n\n🖼️ Gabinete Gamer: panel de vidrio templado con iluminación RGB\n\n🎨 Placa de video: NVIDIA RTX 5050 Ventus X2 8GB GDDR6\n\n💧 Refrigeración líquida: Raptor Aqua Core 360 – triple ventilador para máxima disipación térmica\n\n🖥️ Monitor: LG UltraGear 24\" IPS, 180Hz – fluidez y colores vibrantes para gaming competitivo\n\n🔥 Una configuración pensada para gamers exigentes y creadores de contenido, con potencia gráfica de última generación, refrigeración avanzada y un monitor de alto rendimiento para aprovechar cada frame.",
-    "video": "",
-    "category": "Notebook",
-    "category2": "destacados",
-    "subcategoria": "PC",
-    "inStock": true,
-    "slug": "pc-gamer-eclypse-r7-5700-rtx5050-monitor-16gb-512gb",
-    "price": 1997500,
-    "priceLocal": 1903000,
-    "banners": [
-      "pccombo"
-    ],
-    "priceNum": "1997500",
-    "cashPrice": "1903000",
-    "customButtons": [],
-    "category3": "",
-    "excludeFromExport": true,
-    "proximoIngreso": false
   },
   {
     "id": "prod-1779232411747",
