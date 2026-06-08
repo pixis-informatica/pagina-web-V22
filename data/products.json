@@ -1620,8 +1620,8 @@
     "priceLocal": 86500,
     "inStock": true,
     "id": "prod-gabinete-raptor-eclypse-tg-x2--788",
-    "priceNum": "99000",
-    "cashPrice": "93000",
+    "priceNum": "94500",
+    "cashPrice": "86500",
     "desc": "🔩 Material: Acero SPCC\n\n📏 Espesor del chasis: 0.5 mm\n\n🪟 Panel frontal: Vidrio templado\n\n🪟 Panel lateral: Vidrio templado\n\n🔌 Puertos: 1 × USB 3.0 + 2 × USB 2.0 + Audio HD\n\n💾 Bahías de unidades:\n\n3.5 HDD × 2\n\n2.5 SSD × 3\n\n⚙️ Altura máxima del CPU Cooler: 157 mm\n\n🎮 Longitud máxima de tarjeta gráfica (VGA): 400 mm\n\n🧩 Compatibilidad de placa madre: ATX, Micro ATX, ITX\n\n📐 Dimensiones: 418 × 280 × 375 mm",
     "customButtons": [
       {
@@ -1636,7 +1636,11 @@
     "category2": "",
     "category3": "",
     "iva": "10,50%",
-    "stock": 6
+    "stock": 6,
+    "video": "https://youtube.com/shorts/mXgmT3VHN8w?si=dDFzs6C8V9OM9zek",
+    "videoUrl": "https://youtube.com/shorts/mXgmT3VHN8w?si=dDFzs6C8V9OM9zek",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "subcategoria": "ITX/MATX/ATX",
@@ -2266,8 +2270,8 @@
     "stock": 0
   },
   {
-    "img": "img/productos/monitor-asus-22-full-hd-100hz/monitor-asus-100hz-va-22-des-1778161804236.jpg",
-    "gallery": "img/productos/monitor-asus-22-full-hd-100hz/monitor-asus-100hz-va-22-des-1778161804236.jpg,img/productos/monitor-asus-22-full-hd-100hz/monitor-asus-100hz-va-22-des-1778161804390.jpg",
+    "img": "img/productos/monitor-asus-22-full-hd-100hz/vp227-1780950267716.jpg",
+    "gallery": "img/productos/monitor-asus-22-full-hd-100hz/vp227-1780950267716.jpg,img/productos/monitor-asus-22-full-hd-100hz/atras-1780950267262.jpg",
     "title": "MONITOR ASUS 22 FULL HD 100HZ",
     "desc": "✅🔌 Puertos de Entrada/Salida: HDMI (v1.4) × 1 | VGA × 1 | Jack para auriculares\n✅📡 Frecuencia de Señal: Digital (HDMI): 30–100 Hz (V) | Analógica (VGA): 30–76 Hz (V)\n✅⚡ Consumo de Energía: Uso: <9.97 W | Ahorro: <0.5 W | Apagado: <0.3 W | Voltaje: 100–240 V, 50/60 Hz\n✅🛠️ Diseño Mecánico: Inclinación: Sí (+20° ~ -5°) | Ajuste de altura: No | Montaje VESA: 100 × 100 mm | Bloqueo Kensington: Sí\n✅📐 Dimensiones: 22 pulgadas\n✅⚖️ Peso: Neto con base: 2.6 kg | Neto sin base: 2.3 kg | Bruto: 4.1 kg\n✅🎁 Accesorios Incluidos: Cable HDMI | Cable de energía | Guía rápida | Tarjeta de garantía\n✅🏅 Certificaciones: Energy Star | EPEAT Silver | TCO Certified | TÜV Flicker-free | TÜV Low Blue Light | FSC MIX",
     "priceVisible": "$152.500",
@@ -2293,7 +2297,9 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "iva": "21,00%",
-    "stock": 13
+    "stock": 13,
+    "video": "",
+    "videoUrl": ""
   },
   {
     "id": "prod-1778937108223",
