@@ -460,7 +460,7 @@
     "cashPrice": "4000",
     "img": "img/productos/cable-kelyx-hdmi-4k-1-5-metros/kelyx-hdmi-1-1779911950768.jpg",
     "gallery": "img/productos/cable-kelyx-hdmi-4k-1-5-metros/kelyx-hdmi-1-1779911950768.jpg,img/productos/cable-kelyx-hdmi-4k-1-5-metros/cable-kelyx-hdmi-4k-3-metros-01-1779911942800.jpg",
-    "desc": "°1080p (Full HD): hasta 240 Hz\n° 1440p (2K): hasta 144 Hz \n° 2160p (4K): hasta 60 Hz\nCERTIFICACION 2.0",
+    "desc": "Conexión de alta definición con máxima calidad de imagen y sonido.\n\n📺 Resolución 4K Ultra HD: imágenes nítidas y detalladas.\n\n🎶 Transmisión de audio digital: sonido claro y envolvente.\n\n⚡ Estándar HDMI 2.0: mayor ancho de banda para contenido moderno.\n\n📏 Longitud de 1.5 metros: ideal para instalaciones flexibles en hogar u oficina.\n\n🔒 Construcción confiable: conectores resistentes para uso prolongado.\n\n✅ Perfecto para televisores, monitores, consolas y dispositivos multimedia que requieren imagen y sonido de alta calidad.",
     "customButtons": [],
     "banners": [],
     "subcategoria": "Hdmi",
@@ -469,32 +469,40 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 8
+    "stock": 8,
+    "video": "",
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
-    "img": "img/productos/hdmi 3M 4k.png",
-    "gallery": "img\\productos\\Cable Kelyx HDMI 4K - 3 metros (2047)\\Cable Kelyx Hdmi 4K 3 Metros 01.png,img\\productos\\Cable Kelyx HDMI 4K - 3 metros (2047)\\Cable Kelyx Hdmi 4K 3 Metros 02.png",
+    "img": "img/productos/cable-kelyx-hdmi-4k-3-metros/hdmi-3m-4k-1780952176977.jpg",
+    "gallery": "img/productos/cable-kelyx-hdmi-4k-3-metros/hdmi-3m-4k-1780952176977.jpg,img\\productos\\Cable Kelyx HDMI 4K - 3 metros (2047)\\Cable Kelyx Hdmi 4K 3 Metros 01.png,img\\productos\\Cable Kelyx HDMI 4K - 3 metros (2047)\\Cable Kelyx Hdmi 4K 3 Metros 02.png",
     "title": "Cable Kelyx HDMI 4K - 3 metros",
-    "desc": "°1080p (Full HD): hasta 240 Hz\n° 1440p (2K): hasta 144 Hz \n° 2160p (4K): hasta 60 Hz\nCERTIFICACION 2.0",
+    "desc": "Conexión de alta definición con máxima calidad de imagen y sonido.\n\n📺 Resolución 4K Ultra HD: imágenes nítidas y detalladas.\n\n🎶 Transmisión de audio digital: sonido claro y envolvente.\n\n⚡ Estándar HDMI 2.0: mayor ancho de banda para contenido moderno.\n\n📏 Longitud de 3 metros: ideal para instalaciones flexibles en hogar u oficina.\n\n🔒 Construcción confiable: conectores resistentes para uso prolongado.\n\n✅ Perfecto para televisores, monitores, consolas y dispositivos multimedia que requieren imagen y sonido de alta calidad.",
     "priceVisible": "$6.000",
     "subcategoria": "Hdmi",
     "price": 6500,
     "priceLocal": 5500,
     "inStock": true,
     "id": "prod-cable-kelyx-hdmi-4k-3-metros-505",
-    "priceNum": "6000",
-    "cashPrice": "5000",
+    "priceNum": "6500",
+    "cashPrice": "5500",
     "customButtons": [],
     "banners": [],
     "category": "Cables",
     "category2": "",
     "iva": "21,00%",
-    "stock": 6
+    "stock": 6,
+    "video": "",
+    "videoUrl": "",
+    "proximoIngreso": false,
+    "category3": "",
+    "excludeFromExport": false
   },
   {
     "img": "img/productos/cable-kelyx-hdmi-4k-5-metros/hdmi-5m--kelyx-4k-1779557159082.jpg",
     "title": "Cable Kelyx HDMI 4K - 5 metros",
-    "desc": "°1080p (Full HD): hasta 60HZ\nCERTIFICACION 1.4",
+    "desc": "Conexión de alta definición con máxima calidad de imagen y sonido.\n\n📺 Resolución 4K Ultra HD: imágenes nítidas y detalladas.\n\n🎶 Transmisión de audio digital: sonido claro y envolvente.\n\n⚡ Estándar HDMI 2.0: mayor ancho de banda para contenido moderno.\n\n📏 Longitud de 5 metros: ideal para instalaciones flexibles en hogar u oficina.\n\n🔒 Construcción confiable: conectores resistentes para uso prolongado.\n\n✅ Perfecto para televisores, monitores, consolas y dispositivos multimedia que requieren imagen y sonido de alta calidad.",
     "priceVisible": "$7.500",
     "subcategoria": "Hdmi",
     "price": 7500,
@@ -511,7 +519,10 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 5
+    "stock": 5,
+    "video": "",
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
     "img": "img/productos/Cable sata 3 6gbps.png",
@@ -1679,8 +1690,8 @@
     "priceLocal": 57000,
     "inStock": true,
     "id": "prod-gabinete-raptor-thunder-strike-510",
-    "priceNum": "59000",
-    "cashPrice": "56000",
+    "priceNum": "60500",
+    "cashPrice": "57000",
     "desc": "📏 Dimensiones: 390 × 228 × 390 mm\n\n🖼️ Panel frontal: Vidrio templado completo\n\n🖼️ Panel lateral izquierdo: Vidrio templado completo\n\n🧩 Compatibilidad de placa base: Micro ATX, Mini-ITX\n\n🔌 Puertos:1× USB 3.0• 1× USB 2.0• Audio HD\n\n💾 Bahías para unidades: 1× HDD 3.5 • 1× SSD 2.5\n\n🎮 Longitud máxima GPU: 380 mm\n\n🎨 Color: Negro",
     "customButtons": [
       {
@@ -1695,7 +1706,11 @@
     "category2": "",
     "category3": "",
     "iva": "10,50%",
-    "stock": 4
+    "stock": 4,
+    "video": "https://youtube.com/shorts/qxqkMZMj1gc?si=O5lfna1z7MLHv4Vu",
+    "videoUrl": "https://youtube.com/shorts/qxqkMZMj1gc?si=O5lfna1z7MLHv4Vu",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "img": "img\\des\\thunderstrike white.png",
@@ -1707,8 +1722,8 @@
     "priceLocal": 55000,
     "inStock": true,
     "id": "prod-gabinete-raptor-thunder-strike-662",
-    "priceNum": "59000",
-    "cashPrice": "56000",
+    "priceNum": "58000",
+    "cashPrice": "55000",
     "desc": "📏 Dimensiones: 390 × 228 × 390 mm\n\n🖼️ Panel frontal: Vidrio templado completo\n\n🖼️ Panel lateral izquierdo: Vidrio templado completo\n\n🧩 Compatibilidad de placa base: Micro ATX, Mini-ITX\n\n🔌 Puertos:1× USB 3.0• 1× USB 2.0• Audio HD\n\n💾 Bahías para unidades: 1× HDD 3.5 • 1× SSD 2.5\n\n🎮 Longitud máxima GPU: 380 mm\n\n🎨 Color: Negro",
     "customButtons": [
       {
@@ -1723,7 +1738,11 @@
     "category2": "",
     "category3": "",
     "iva": "10,50%",
-    "stock": 10
+    "stock": 10,
+    "video": "https://youtube.com/shorts/uOrmUBiEtEo?si=PczwPstGkqaYi4mH",
+    "videoUrl": "https://youtube.com/shorts/uOrmUBiEtEo?si=PczwPstGkqaYi4mH",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "img": "img\\des\\GABINETE-VORTEX-RGB-DES.png",
@@ -1735,8 +1754,8 @@
     "priceLocal": 41500,
     "inStock": true,
     "id": "prod-gabinete-raptor-vortex-tg-mid--548",
-    "priceNum": "47000",
-    "cashPrice": "43500",
+    "priceNum": "46500",
+    "cashPrice": "41500",
     "desc": "copiado\n🧱 Material: Acero SPCC\n\n📏 Espesor del chasis: 0,4 mm\n\n📐 Dimensiones: 335 x 192 x 445 mm\n\n💡 Panel frontal: ABS + tira LED\n\n🪟 Panel lateral: Vidrio templado completo (izquierdo)\n\n🔌 Puertos: 1× USB 3.0 + 2× USB 2.0 + Audio HD\n\n💾 Bahías: 1× HDD 3.5 + 1× SSD 2.5\n\n🧊 Altura máxima CPU: 155 mm\n\n🎮 GPU: Hasta 290 mm 7 slots\n\n🧩 Placas base: ATX,M-ATX,ITX\n\n🌬️ Ventilador trasero: 1× 120 mm\n\n📦 Dimensiones embalado: 335 × 192 × 445 mm\n\ncopiado\n🧱 Material: Acero SPCC\n\n📏 Espesor del chasis: 0,4 mm\n\n📐 Dimensiones: 335 x 192 x 445 mm\n\n💡 Panel frontal: ABS + tira LED\n\n🪟 Panel lateral: Vidrio templado completo (izquierdo)\n\n🔌 Puertos: 1× USB 3.0 + 2× USB 2.0 + Audio HD\n\n💾 Bahías: 1× HDD 3.5 + 1× SSD 2.5\n\n🧊 Altura máxima CPU: 155 mm\n\n🎮 GPU: Hasta 290 mm 7 slots\n\n🧩 Placas base: ATX,M-ATX,ITX\n\n🌬️ Ventilador trasero: 1× 120 mm\n\n📦 Dimensiones embalado: 335 × 192 × 445 mm",
     "customButtons": [
       {
@@ -1751,7 +1770,11 @@
     "category2": "",
     "category3": "",
     "iva": "10,50%",
-    "stock": 1
+    "stock": 1,
+    "video": "https://youtube.com/shorts/8ozHk4nk-sc?si=SqNSAg5GQ5IBfKD3",
+    "videoUrl": "https://youtube.com/shorts/8ozHk4nk-sc?si=SqNSAg5GQ5IBfKD3",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "img": "img/des/rx 7800 xt des.png",
@@ -1859,8 +1882,8 @@
     "subcategoria": "Auriculares",
     "inStock": true,
     "slug": "headset-gamer-aimzone-camuflado-yellow-az707",
-    "price": 0,
-    "priceLocal": 0,
+    "price": 26000,
+    "priceLocal": 22000,
     "banners": [],
     "priceNum": "26000",
     "cashPrice": "22000",
@@ -1870,7 +1893,8 @@
     "excludeFromExport": true,
     "proximoIngreso": false,
     "stock": 14,
-    "iva": "21,00%"
+    "iva": "21,00%",
+    "videoUrl": ""
   },
   {
     "id": "prod-hub-aluminio-usb-3-0-multiplic-214",
@@ -4022,7 +4046,7 @@
     "category": "Periféricos",
     "category2": "",
     "subcategoria": "teclado",
-    "inStock": true,
+    "inStock": false,
     "slug": "teclado-genius-usb-kb-113-black-sp",
     "price": 10500,
     "priceLocal": 10000,
@@ -4038,7 +4062,9 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 1
+    "stock": 1,
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
     "id": "prod-1778159030799",
