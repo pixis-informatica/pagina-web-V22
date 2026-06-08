@@ -85,9 +85,9 @@
     "priceLocal": 10500,
     "inStock": true,
     "priceNum": "12000",
-    "cashPrice": "10000",
-    "img": "img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/nano-wifi-1780013089800.jpg",
-    "gallery": "img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/nano-wifi-1780013089800.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/07-thumb20240513081742-1780013102396.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/02-thumb20240513081624-1780013097673.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/03-thumb20240513081639-1780013097695.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/04-thumb20240513081657--1--1780013097715.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/04-thumb20240513081657-1780013097748.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/05-thumb20240513081713-1780013097764.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/06-thumb20240513081729-1780013097782.jpg",
+    "cashPrice": "10500",
+    "img": "img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/01-normal20240513081609-1780013011856-1780959364558.jpg",
+    "gallery": "img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/01-normal20240513081609-1780013011856-1780959364558.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/02-thumb20240513081624-1780013097673-1780959364662.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/03-thumb20240513081639-1780013097695-1780959364712.jpg,img/productos/adaptador-wifi-nano-usb-mercusys-300mbps-ma12n/04-thumb20240513081657--1--1780013011946-1780959364729.jpg",
     "desc": "📡 MA12N N300 Wireless Nano USB Adapter  \nConectividad Wi-Fi rápida y segura en tamaño compacto.\n\n🔌 Plug & Play: instalación automática con drivers integrados en Windows.\n\n📏 Nano Size: diseño ultracompacto, más pequeño que un pendrive.\n\n🔒 Seguridad mejorada: soporte para WPA3, mayor protección de contraseñas.\n\n⚡ Velocidad Wi-Fi: hasta 300 Mbps, ideal para navegación y streaming.\n\n💻 Compatibilidad: Windows 10 y 11 (32/64 bits).\n\n✅ Una solución práctica y portátil para convertir tu PC o notebook en un dispositivo inalámbrico con seguridad avanzada.",
     "customButtons": [],
     "banners": [],
@@ -97,7 +97,10 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 3
+    "stock": 3,
+    "video": "",
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
     "img": "img/productos/Alcohol Isopropílico 1L.png",
@@ -858,7 +861,10 @@
     "category3": "refrigeracion",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 8
+    "stock": 8,
+    "video": "https://youtube.com/shorts/qzO2PyATiz4?si=bY_EY2J90Y-FCLUI",
+    "videoUrl": "https://youtube.com/shorts/qzO2PyATiz4?si=bY_EY2J90Y-FCLUI",
+    "proximoIngreso": false
   },
   {
     "img": "img/productos/Conversor displayport a vga .png",
@@ -890,7 +896,7 @@
     "priceLocal": 13500,
     "inStock": true,
     "id": "prod-cpu-cooler-kelyx-potencia-max--108",
-    "priceNum": "16000",
+    "priceNum": "16500",
     "cashPrice": "13500",
     "desc": "📏 Tamaño del producto : 95(L) × 65(W) × 133(H) mm\n\n🌬️ Tamaño del ventilador : 92 × 92 × 25 mm\n\n⚡ Velocidad del ventilador : 2000 RPM ±10%\n\n⚖️ Peso : 310 g\n\n🔌 Conector : 3 pines\n\n🛠️ Tipo de rodamiento : Hidráulico automático\n\n🔋 Voltaje de arranque : 7 VDC\n\n🔋 Voltaje nominal : 12 VDC\n\n🔋 Corriente nominal : 0.2 A ±10%\n\n💨 Flujo de aire : 48 CFM\n\n🔇 Relación señal-ruido : 18 dBA ±10%\n\n⏳ Vida útil : 50.000 horas",
     "customButtons": [],
@@ -899,7 +905,11 @@
     "category2": "",
     "category3": "",
     "iva": "21,00%",
-    "stock": 5
+    "stock": 5,
+    "video": "https://youtube.com/shorts/1yBzjp9vAGc?si=3nm5NHHewG-2HBZN",
+    "videoUrl": "https://youtube.com/shorts/1yBzjp9vAGc?si=3nm5NHHewG-2HBZN",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "img": "img\\productos\\Cooler Fan 120x120mm Frost.png",
@@ -940,7 +950,7 @@
     "inStock": true,
     "id": "prod-cpu-cooler-raptor-cryo-rgb-pot-211",
     "priceNum": "18500",
-    "cashPrice": "16000",
+    "cashPrice": "15500",
     "desc": "📏 Tamaño del producto : 95(L) × 65(W) × 133(H) mm\n\n🌬️ Tamaño del ventilador : 92 × 92 × 25 mm\n\n⚡ Velocidad del ventilador : 2000 RPM ±10%\n\n⚖️ Peso : 310 g\n\n🔌 Conector : 3 pines\n\n🛠️ Tipo de rodamiento : Hidráulico automático\n\n🔋 Voltaje de arranque : 7 VDC\n\n🔋 Voltaje nominal : 12 VDC\n\n🔋 Corriente nominal : 0.2 A ±10%\n\n💨 Flujo de aire : 48 CFM\n\n🔇 Relación señal-ruido : 18 dBA ±10%\n\n⏳ Vida útil : 50.000 horas",
     "customButtons": [],
     "banners": [
@@ -950,7 +960,11 @@
     "category2": "",
     "category3": "",
     "iva": "21,00%",
-    "stock": 21
+    "stock": 21,
+    "video": "https://youtube.com/shorts/N6K0y3tiNQ0?si=g8sihhjinwgAHPQH",
+    "videoUrl": "https://youtube.com/shorts/N6K0y3tiNQ0?si=g8sihhjinwgAHPQH",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "img": "img\\productos\\astria 200.png",
@@ -1080,10 +1094,10 @@
     "subcategoria": "256GB",
     "price": 91000,
     "priceLocal": 86500,
-    "inStock": true,
+    "inStock": false,
     "id": "prod-disco-ssd-m-2-hiksemi-256gb-wa-481",
-    "priceNum": "89000",
-    "cashPrice": "85000",
+    "priceNum": "91000",
+    "cashPrice": "86500",
     "customButtons": [],
     "banners": [
       "ssd-hiksemi"
@@ -1093,7 +1107,10 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 2
+    "stock": 2,
+    "video": "",
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
     "img": "img\\productos\\hiksemi-ssd-480gb.png",
@@ -1178,8 +1195,8 @@
   {
     "id": "prod-1778170881554",
     "title": "Extractor De Switches Puller Para Teclado Mecanico",
-    "img": "img/productos/extractor-de-switches-puller-para-teclado-mecanico/extractor-de-switches-puller-para-teclado-mecanico-1778170899795.jpg",
-    "gallery": "img/productos/extractor-de-switches-puller-para-teclado-mecanico/extractor-de-switches-puller-para-teclado-mecanico-1778170899795.jpg",
+    "img": "img/productos/extractor-de-switches-puller-para-teclado-mecanico/extractor-1780958143840.jpg",
+    "gallery": "img/productos/extractor-de-switches-puller-para-teclado-mecanico/extractor-1780958143840.jpg,img/productos/extractor-de-switches-puller-para-teclado-mecanico/extractor-2-1780958143756.jpg",
     "desc": "✅ Enlace copiado\nHerramienta práctica y resistente diseñada para remover switches de manera segura y precisa.\n\nevita daños en la placa o en los componentes del teclado. Ideal para entusiastas y técnicos que\n\nrealizan mantenimiento, modificaciones o reemplazo de switches.",
     "video": "",
     "category": "Herramientas",
@@ -1190,12 +1207,15 @@
     "price": 9000,
     "priceLocal": 8000,
     "banners": [],
-    "priceNum": "8500",
-    "cashPrice": "7000",
+    "priceNum": "9000",
+    "cashPrice": "8000",
     "customButtons": [],
     "category3": "",
     "iva": "10,50%",
-    "stock": 2
+    "stock": 2,
+    "videoUrl": "",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "img": "img\\des\\Fichas-UTP-RJ45-Cat-5e-unidad.png",
@@ -1874,7 +1894,7 @@
   {
     "id": "prod-1778111291760",
     "title": "Headset gamer Aimzone camuflado yellow AZ707",
-    "img": "img\\productos\\aimzone yellow camuflado.png",
+    "img": "img/productos/headset-gamer-aimzone-camuflado-yellow-az707/aimzone-yellow-1780957702778.jpg",
     "desc": "Color: Gris camuflado\n\nUnidad del altavoz: 50 mm\n\nImpedancia: 20 O ±15%\n\nSensibilidad: 117 ±3 dB\n\nRango de frecuencia: 20 – 20,000 Hz\n\nMicrófono: 6 × 2.7 mm\n\nSensibilidad del micrófono: -38 dB ±3 dB\n\nImpedancia del micrófono: 2.2 kO\n\nDirectividad del micrófono: Omnidireccional\n\nLongitud del cable: 2.2 m\n\nInterfaz del headset: 1 × Jack 3.5 mm / 2 × Jack 3.5 mm (cable divisor)",
     "video": "",
     "category": "Periféricos",
@@ -1887,7 +1907,7 @@
     "banners": [],
     "priceNum": "26000",
     "cashPrice": "22000",
-    "gallery": "img\\productos\\aimzone yellow camuflado.png,img/productos/headset-gamer-aimzone-camuflado-yellow-az707/d-nq-np-2x-703450-mla96416600473-102025-f-1778163704828.jpg,img/productos/headset-gamer-aimzone-camuflado-yellow-az707/d-nq-np-2x-760183-mla99938778687-112025-f-1778163704903.jpg,img/productos/headset-gamer-aimzone-camuflado-yellow-az707/d-nq-np-2x-778033-mla95973309388-102025-f-1778163704960.jpg,img/productos/headset-gamer-aimzone-camuflado-yellow-az707/d-nq-np-2x-972715-mla95973447382-102025-f-1778163705008.jpg",
+    "gallery": "img/productos/headset-gamer-aimzone-camuflado-yellow-az707/aimzone-yellow-1780957702778.jpg,img\\productos\\aimzone yellow camuflado.png,img/productos/headset-gamer-aimzone-camuflado-yellow-az707/d-nq-np-2x-703450-mla96416600473-102025-f-1778163704828.jpg,img/productos/headset-gamer-aimzone-camuflado-yellow-az707/d-nq-np-2x-760183-mla99938778687-112025-f-1778163704903.jpg,img/productos/headset-gamer-aimzone-camuflado-yellow-az707/d-nq-np-2x-778033-mla95973309388-102025-f-1778163704960.jpg,img/productos/headset-gamer-aimzone-camuflado-yellow-az707/d-nq-np-2x-972715-mla95973447382-102025-f-1778163705008.jpg",
     "customButtons": [],
     "category3": "",
     "excludeFromExport": true,
@@ -1904,8 +1924,8 @@
     "inStock": true,
     "priceNum": "9000",
     "cashPrice": "8000",
-    "img": "img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/hub-zapatilla-usb-3-1779914906776.jpg",
-    "gallery": "img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/hub-zapatilla-usb-3-1779914906776.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-641179-mla91568069486-092025-f-1778165179208-1779914894751.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-701465-mla91568099248-092025-f-1778165179249-1779914894802.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-769086-mla91967131899-092025-f-1778165179283-1779914894858.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-955744-mla91967112003-092025-f-1778165179321-1779914894943.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-975792-mla91966883995-092025-f-1778165179354-1779914894984.jpg",
+    "img": "img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/bus-usb-1780955905492.jpg",
+    "gallery": "img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/bus-usb-1780955905492.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-641179-mla91568069486-092025-f-1778165179208-1779914894751.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-701465-mla91568099248-092025-f-1778165179249-1779914894802.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-769086-mla91967131899-092025-f-1778165179283-1779914894858.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-955744-mla91967112003-092025-f-1778165179321-1779914894943.jpg,img/productos/hub-aluminio-usb-3-0-multiplicador-4-puertos-alta-velocidad-color-plateado/d-nq-np-2x-975792-mla91966883995-092025-f-1778165179354-1779914894984.jpg",
     "desc": "Más puertos, más velocidad, más comodidad.\n\n⚡ Velocidad de transferencia: hasta 5 Gbps.\n\n🔌 Conectividad múltiple: ideal para discos externos, periféricos y accesorios.\n\n💻 Compatibilidad universal: PC, notebooks, consolas y más.\n\n🎯 Diseño compacto y portátil: fácil de llevar y usar en cualquier lugar.\n\n🔒 Protección integrada: contra sobrecargas y cortocircuitos.\n\n⚡ Plug & Play: listo para usar sin drivers.\n\n✅ Perfecto para ampliar la conectividad de tu equipo con rapidez y seguridad.",
     "customButtons": [],
     "banners": [],
@@ -1915,7 +1935,10 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 2
+    "stock": 2,
+    "video": "",
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
     "img": "img/productos/Kit de destornillador 115.png",
@@ -2332,8 +2355,8 @@
   {
     "id": "prod-1778937108223",
     "title": "Monitor Gamer Raptor Hawk Eye 24\" Frameless IPS FHD 200Hz 1Ms HDMI-DP",
-    "img": "img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24-1778936985994.jpg",
-    "gallery": "img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24-1778936985994.jpg,img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24--version-1778936986024.jpg,img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24--version1-1778936986075.jpg,img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24--version4-1778936986104.jpg",
+    "img": "img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24-1780953750415.jpg",
+    "gallery": "img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24-1780953750415.jpg,img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24--version-1780953750552.jpg,img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24--version1-1780953750804.jpg,img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-24--version4-1780953750911.jpg",
     "desc": "📺 Pantalla: 23.8 IPS sin bordes\n\n🎮 Frecuencia de actualización: 200 Hz\n\n⚡ Tiempo de respuesta: 1 ms\n\n🌈 Color: 16,7 M – 100% sRGB\n\n🔆 Brillo: 300 cd/m²\n\n🖼️ Resolución: Full HD 1920x1080\n\n👀 Ángulo de visión: 178° (CR>10)\n\n⚖️ Contraste: 1000:1\n\n🔌 Conectividad\n🔗 HDMI 2.0: 1 puerto\n\n🔗 DisplayPort 1.2: 1 puerto\n\n🔗 USB 2.0: 1 puerto\n\n🔌 DC Power: 1 puerto\n\n🛠️ Diseño estructural\n🧩 Soporte fijo estándar\n\n↕️ Inclinación: -5° / +20°\n\n🔒 Bloqueo antirrobo\n\n🔘 Botón de encendido/apagado\n\n⚡ Consumo\n🔋 Máx. consumo: ≤30 W\n\n🌙 Modo espera: 0,5 W",
     "video": "",
     "category": "monitores",
@@ -2358,13 +2381,14 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "iva": "21,00%",
-    "stock": 5
+    "stock": 5,
+    "videoUrl": ""
   },
   {
     "id": "prod-1778936893389",
     "title": "Monitor Gamer Raptor Hawk Eye 27\" Frameless IPS FHD 200Hz 1Ms HDMI-DP",
-    "img": "img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-fhd-200hz-1ms-hdmi-dp/-raptor-hawk-heye-24--1779572739062.jpg",
-    "gallery": "img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-fhd-200hz-1ms-hdmi-dp/-raptor-hawk-heye-24--1779572739062.jpg,img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-27--version1-1778936667794.jpg,img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-27--version2-1778936667856.jpg,img/productos/monitor-gamer-raptor-hawk-eye-24-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-27--version3-1778936667934.jpg",
+    "img": "img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-fhd-200hz-1ms-hdmi-dp/-raptor-hawk-heye-27--1780954240550.jpg",
+    "gallery": "img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-fhd-200hz-1ms-hdmi-dp/-raptor-hawk-heye-27--1780954240550.jpg,img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-27--version1-1780953786406.jpg,img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-27--version2-1780953787330.jpg,img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-fhd-200hz-1ms-hdmi-dp/raptor-hawk-heye-27--version3-1780953787461.jpg",
     "desc": "📺 Pantalla: 27 IPS sin bordes\n\n🎮 Frecuencia de actualización: 200 Hz\n\n⚡ Tiempo de respuesta: 1 ms\n\n🌈 Color: 16,7 M – 100% sRGB\n\n🔆 Brillo: 300 cd/m²\n\n🖼️ Resolución: Full HD 1920x1080\n\n👀 Ángulo de visión: 178° (CR>10)\n\n⚖️ Contraste: 1000:1\n\n🔌 Conectividad\n🔗 HDMI 2.0: 1 puerto\n\n🔗 DisplayPort 1.2: 1 puerto\n\n🔗 USB 2.0: 1 puerto\n\n🔌 DC Power: 1 puerto\n\n🛠️ Diseño estructural\n🧩 Soporte fijo estándar\n\n↕️ Inclinación: -5° / +20°\n\n🔒 Bloqueo antirrobo\n\n🔘 Botón de encendido/apagado\n\n⚡ Consumo\n🔋 Máx. consumo: ≤30 W\n\n🌙 Modo espera: 0,5 W",
     "video": "",
     "category": "monitores",
@@ -2389,13 +2413,14 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "iva": "21,00%",
-    "stock": 2
+    "stock": 2,
+    "videoUrl": ""
   },
   {
     "id": "prod-1778944249778",
     "title": "Monitor Gamer Raptor Hawk Eye 27\" Frameless IPS QHD 200Hz 1Ms HDMI-DP I",
-    "img": "img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27-1778937316378-1779120656306.jpg",
-    "gallery": "img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27-1778937316378-1779120656306.jpg,img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27--version1-1778937316427-1779120656384.jpg,img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27--version2-1778937316454-1779120656401.jpg,img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27--version3-1778937316483-1779120656423.jpg",
+    "img": "img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27-1780953837103.jpg",
+    "gallery": "img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27-1780953837103.jpg,img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27--version1-1778937316427-1779120656384.jpg,img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27--version2-1778937316454-1779120656401.jpg,img/productos/monitor-gamer-raptor-hawk-eye-27-frameless-ips-qhd-200hz-1ms-hdmi-dp-i/raptor-hawk-heye-27--version3-1778937316483-1779120656423.jpg",
     "desc": "📺 Pantalla: 27 IPS sin bordes\n\n🎮 Frecuencia de actualización: 200 Hz\n\n⚡ Tiempo de respuesta: 1 ms\n\n🌈 Color: 16,7 M – 100% sRGB\n\n🔆 Brillo: 300 cd/m²\n\n🖼️ Resolución: Quad HD 2560x1440\n\n👀 Ángulo de visión: 178° (CR>10)\n\n⚖️ Contraste: 1000:1\n\n🔌 Conectividad\n\n�� HDMI 2.0: 1 puerto\n\n🔗 DisplayPort 1.2: 1 puerto\n\n🔗 USB 2.0: 1 puerto\n\n🔌 DC Power: 1 puerto\n\n🛠️ Diseño estructural\n\n🧩 Soporte fijo estándar\n\n↕️ Inclinación: -5° / +20°\n\n🔒 Bloqueo antirrobo\n\n🔘 Botón de encendido/apagado\n\n⚡ Consumo\n\n🔋 Máx. consumo: ≤30 W\n\n🌙 Modo espera: 0,5 W",
     "video": "",
     "category": "monitores",
@@ -2420,7 +2445,8 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "iva": "21,00%",
-    "stock": 1
+    "stock": 1,
+    "videoUrl": ""
   },
   {
     "img": "img/productos/monitor gigabyte 25.png",
@@ -2950,7 +2976,7 @@
     "inStock": true,
     "id": "prod-mouse-pad-gamer-raptor-ultra-g-550",
     "priceNum": "7500",
-    "cashPrice": "6500",
+    "cashPrice": "7000",
     "customButtons": [],
     "banners": [
       "perifericos-raptor"
@@ -2960,7 +2986,11 @@
     "category3": "",
     "gallery": "img/productos/Mouse pad raptor L.png",
     "iva": "21,00%",
-    "stock": 3
+    "stock": 3,
+    "video": "https://youtube.com/shorts/xADClRr11Zg?si=XBOIxK4vfEd4TXAU",
+    "videoUrl": "https://youtube.com/shorts/xADClRr11Zg?si=XBOIxK4vfEd4TXAU",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "img": "img/productos/Mouse pad raptor s.png",
@@ -3247,8 +3277,8 @@
   {
     "id": "prod-1778165654143",
     "title": "Parlantes Para Pc Notebook Netbook Audio Usb Mini Plug Noga Ng-106 Negro USB",
-    "img": "img/productos/parlantes-para-pc-notebook-netbook-audio-usb-mini-plug-noga-ng-106-negro-usb/parlantesitos-noga-1778165639235.jpg",
-    "gallery": "img/productos/parlantes-para-pc-notebook-netbook-audio-usb-mini-plug-noga-ng-106-negro-usb/parlantesitos-noga-1778165639235.jpg",
+    "img": "img/productos/parlantes-para-pc-notebook-netbook-audio-usb-mini-plug-noga-ng-106-negro-usb/parlantes-noga-1780958748258.jpg",
+    "gallery": "img/productos/parlantes-para-pc-notebook-netbook-audio-usb-mini-plug-noga-ng-106-negro-usb/parlantes-noga-1780958748258.jpg",
     "desc": "Parlantes estéreo (2 unidades)\n\nConexión de audio: Jack 3.5 mm\n\nAlimentación: USB 2.0\n\nPotencia: baja (1–6W RMS aprox.)\n\nColor: negro\n\nUso: PC, notebook, netbook",
     "video": "",
     "category": "Periféricos",
@@ -3260,7 +3290,14 @@
     "priceLocal": 6500,
     "banners": [],
     "iva": "21,00%",
-    "stock": 2
+    "stock": 2,
+    "priceNum": "8000",
+    "cashPrice": "6500",
+    "videoUrl": "",
+    "proximoIngreso": false,
+    "customButtons": [],
+    "category3": "",
+    "excludeFromExport": false
   },
   {
     "img": "img/productos/Pasta termica arctic 4G.png",
@@ -3514,10 +3551,10 @@
     "price": 299000,
     "priceLocal": 282500,
     "inStock": true,
-    "priceNum": "292500",
-    "cashPrice": "276500",
-    "img": "img/productos/proces-amd-ryzen-5-8400f-am5-sin-video-con-cooler-6736/amd-ryzen-5-8400f-1779905397919.jpg",
-    "gallery": "img/productos/proces-amd-ryzen-5-8400f-am5-sin-video-con-cooler-6736/amd-ryzen-5-8400f-1779905397919.jpg",
+    "priceNum": "299000",
+    "cashPrice": "282500",
+    "img": "img/productos/proces-amd-ryzen-5-8400f-am5-sin-video-con-cooler-6736/amd-ryzen-5-8400f-1780959309739.jpg",
+    "gallery": "img/productos/proces-amd-ryzen-5-8400f-am5-sin-video-con-cooler-6736/amd-ryzen-5-8400f-1780959309739.jpg",
     "desc": "Rendimiento moderno para gaming y productividad.\n\n6 núcleos / 12 hilos para multitarea fluida y juegos exigentes.\n\nFrecuencia base de 4.2 GHz con boost dinámico hasta 4.7 GHz.\n\nArquitectura Zen 5 optimizada para eficiencia y velocidad.\n\nCompatible con DDR5 de alta frecuencia y placas madre AM5.\n\nSin gráficos integrados: pensado para acompañar con GPU dedicada.\n\n🎮 Ideal para PC Gamer y creadores que buscan potencia confiable a un precio competitivo.",
     "customButtons": [
       {
@@ -3532,7 +3569,10 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 1
+    "stock": 1,
+    "video": "",
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
     "id": "PROD-MPIF8YN3FUNE",
@@ -3540,10 +3580,10 @@
     "price": 298500,
     "priceLocal": 282000,
     "inStock": true,
-    "priceNum": "292000",
-    "cashPrice": "276000",
-    "img": "img/productos/proces-amd-ryzen-7-5700-am4-sin-video-con-cooler-7856/amd-ryzen-7-5700-5700-1779905656624.jpg",
-    "gallery": "img/productos/proces-amd-ryzen-7-5700-am4-sin-video-con-cooler-7856/amd-ryzen-7-5700-5700-1779905656624.jpg",
+    "priceNum": "298500",
+    "cashPrice": "282000",
+    "img": "img/productos/proces-amd-ryzen-7-5700-am4-sin-video-con-cooler-7856/amd-ryzen-7-5700-5700-1780959103931.jpg",
+    "gallery": "img/productos/proces-amd-ryzen-7-5700-am4-sin-video-con-cooler-7856/amd-ryzen-7-5700-5700-1780959103931.jpg",
     "desc": "🔥 AMD Ryzen 7 5700  \nPotencia y rendimiento para gaming y multitarea exigente.\n\n8 núcleos / 16 hilos para máxima fluidez en juegos y programas pesados.\n\nFrecuencia base de 3.7 GHz y boost de hasta 4.6 GHz.\n\nArquitectura Zen 3 optimizada para eficiencia y velocidad.\n\nCompatible con DDR4 3200MHz y placas madre AM4.\n\nIdeal para PC Gamer y entornos de trabajo creativo.\n\n💻 Rendimiento superior en FPS, multitarea sin cortes y estabilidad garantizada.",
     "customButtons": [],
     "banners": [],
@@ -3553,7 +3593,10 @@
     "category3": "",
     "excludeFromExport": false,
     "iva": "10,50%",
-    "stock": 3
+    "stock": 3,
+    "video": "",
+    "videoUrl": "",
+    "proximoIngreso": false
   },
   {
     "img": "img/productos/Prolongador 4 tomas  NORMALIZADO.png",
@@ -3887,8 +3930,8 @@
   {
     "id": "prod-1778158810879",
     "title": "Teclado Gamer Raptor Fireclaw M68 Mecanico Retroiluminado Switch Red Outemu White",
-    "img": "img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white-des2-1778158749058.jpg",
-    "gallery": "img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white-des2-1778158749058.jpg,img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white-des-1778158749018.jpg",
+    "img": "img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white/m68-white-1780958425648.jpg",
+    "gallery": "img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white/m68-white-1780958425648.jpg,img/productos/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white/teclado-gamer-raptor-fireclaw-m68-mecanico-retroiluminado-switch-red-outemu-white-des-1778158749018.jpg",
     "desc": "⚡ Rendimiento de Teclas\n\n- Respuesta rápida para juegos competitivos 🏆\n\n- Entrada sin conflictos de teclas ➡️ máxima eficiencia y estabilidad\n\n🔌 Conexión\n\n- Cableado mediante USB extraíble 🔗\n\n- Inalámbrico: No ❌\n\n💻 Compatibilidad\n\n- Windows 7 / 8 / 10 🖥️\n\n- macOS 🍎\n\n✨ Características de la Iluminación Rainbow\n\n- Efecto arcoíris dinámico: los colores recorren el teclado en ondas o transiciones suaves.",
     "video": "",
     "category": "Periféricos",
@@ -3901,7 +3944,7 @@
     "banners": [
       "perifericos-raptor"
     ],
-    "priceNum": "37000",
+    "priceNum": "38000",
     "cashPrice": "34000",
     "customButtons": [
       {
@@ -3911,7 +3954,10 @@
     ],
     "category3": "",
     "iva": "10,50%",
-    "stock": 1
+    "stock": 1,
+    "videoUrl": "",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "img": "img\\des\\Teclado-Gamer-Raptor-Fireclaw-M68-Mecanico-Retroiluminado-Switch-Red-Outemu-des (2).png",
@@ -3939,7 +3985,7 @@
   {
     "id": "prod-1778111498074",
     "title": "Teclado Gamer Raptor Fireclaw M87 Mecanico Retroiluminado Switch Red Outemu",
-    "img": "img\\productos\\raptor m87 black teclado\\m87 black .png",
+    "img": "img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/m87-black-1780958399016.jpg",
     "desc": "- 📏 Dimensiones: 352 × 125 × 35 mm\n\n- ⚖️ Peso: 600 g\n\n- ⌨️ Número de teclas: 87\n\n- 🧩 Material: ABS\n\n- 🎨 Tipo de teclas: Inyección de doble color + grabado láser\n\n- 🔴 Switches: Outemu Red Switches\n\n- 🔌 Cable: 1,5 m\n\n- 🌈 Iluminación: 17 modos LED\n\n- ⏱️ Durabilidad: +50 millones de pulsaciones\n\n- 🛡️ Anti-ghosting: 26 teclas\n\n- 🔗 Puerto: USB 2.0 (rendimiento máximo)\n\n- 💻 Compatibilidad: Windows® XP / Vista / 7 (32/64 bit)",
     "video": "https://youtube.com/shorts/ygparS80Ahg?si=bNyQfIo1m11gJgN9",
     "category": "Periféricos",
@@ -3952,13 +3998,16 @@
     "banners": [
       "perifericos-raptor"
     ],
-    "priceNum": "36500",
-    "cashPrice": "33500",
-    "gallery": "img\\productos\\raptor m87 black teclado\\m87 black .png,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/0000000000417094000118134rap-tec-mec-87-sn--1--800x800-1779143625547.jpg,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/0000000000417094000218137rap-tec-mec-87-sn--2--800x800-1779143625621.jpg,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/0000000000417094000304737rap-tec-mec-87-sn-800x800-1779143625713.jpg,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/000000000041709418143rap-tec-mec-87-sn-800x800-1779143625783.jpg",
+    "priceNum": "37500",
+    "cashPrice": "33000",
+    "gallery": "img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/m87-black-1780958399016.jpg,img\\productos\\raptor m87 black teclado\\m87 black .png,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/0000000000417094000118134rap-tec-mec-87-sn--1--800x800-1779143625547.jpg,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/0000000000417094000218137rap-tec-mec-87-sn--2--800x800-1779143625621.jpg,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/0000000000417094000304737rap-tec-mec-87-sn-800x800-1779143625713.jpg,img/productos/teclado-gamer-raptor-fireclaw-m87-mecanico-retroiluminado-switch-red-outemu/000000000041709418143rap-tec-mec-87-sn-800x800-1779143625783.jpg",
     "customButtons": [],
     "category3": "",
     "iva": "10,50%",
-    "stock": 8
+    "stock": 8,
+    "videoUrl": "https://youtube.com/shorts/ygparS80Ahg?si=bNyQfIo1m11gJgN9",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "id": "prod-1778158513082",
@@ -4105,8 +4154,8 @@
     "priceLocal": 19500,
     "inStock": true,
     "id": "prod-teclado-mlogix-mk104-ghost-bus-392",
-    "priceNum": "22000",
-    "cashPrice": "19000",
+    "priceNum": "23000",
+    "cashPrice": "19500",
     "customButtons": [
       {
         "label": "review",
@@ -4119,7 +4168,11 @@
     "category3": "",
     "gallery": "img\\productos\\MK104 RAINBOW TECLADO MLOGIX.png,img\\des\\MK104 RAINBOW TECLADO MLOGIX des.png",
     "iva": "10,50%",
-    "stock": 10
+    "stock": 10,
+    "video": "https://youtube.com/shorts/TcYTw1wkGKE?si=c63mU47PGM-vkRwY",
+    "videoUrl": "https://youtube.com/shorts/TcYTw1wkGKE?si=c63mU47PGM-vkRwY",
+    "proximoIngreso": false,
+    "excludeFromExport": false
   },
   {
     "id": "prod-1778160796872",
