@@ -619,8 +619,8 @@
     "price": 33000,
     "priceLocal": 29500,
     "inStock": true,
-    "priceNum": "32000",
-    "cashPrice": "29000",
+    "priceNum": "33000",
+    "cashPrice": "29500",
     "img": "img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910971677.jpg",
     "gallery": "img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910971677.jpg,img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910971660.jpg,img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910971644.jpg,img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910976968.jpg,img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910971541.jpg,img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910971562.jpg,img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910971587.jpg,img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910971612.jpg,img/productos/camara-de-seguridad-domo-360-2k-mc210-camara-ip-mercusys-indoor-2k-3mp-360/mc210-eu-1-1779910971628.jpg",
     "desc": "📹 MC210 – Cámara Wi-Fi 360° para el hogar  \nSeguridad inteligente con visión completa y alta definición.\n\nVídeo 2K 3MP: imágenes claras y detalladas en todo momento.\n\nCobertura 360°: movimiento horizontal y vertical para visión completa.\n\nDetección inteligente: seguimiento de personas, movimiento y llanto de bebé, con alertas instantáneas.\n\nVisión nocturna avanzada: hasta 12 m de alcance para vigilancia continua.\n\nAudio bidireccional: micrófono y altavoz integrados para comunicación en tiempo real.\n\nAlmacenamiento flexible: local gratuito en microSD hasta 512GB o en la nube MERCUSYS.\n\nPrivacidad personalizable: zona de bloqueo para proteger espacios privados.\n\nControl por voz: compatible con Google Assistant y Amazon Alexa.\n\n🏠 Ideal para mantener tu hogar seguro, conectado y bajo control las 24 horas.",
@@ -638,7 +638,9 @@
     "excludeFromExport": false,
     "proximoIngreso": false,
     "iva": "21,00%",
-    "stock": 4
+    "stock": 4,
+    "video": "https://youtube.com/shorts/xtdX0oI55QA?si=_1Vyhr565kehxQKh",
+    "videoUrl": "https://youtube.com/shorts/xtdX0oI55QA?si=_1Vyhr565kehxQKh"
   },
   {
     "img": "img/productos/camara-de-seguridad-tapo-c310-tp-link/tapo-c310-camara-de-seguridad-1780098488868.jpg",
@@ -666,7 +668,9 @@
     "proximoIngreso": false,
     "excludeFromExport": false,
     "iva": "21,00%",
-    "stock": 4
+    "stock": 4,
+    "video": "https://youtube.com/shorts/87hrJVQV1Ko?si=1cSTr9nSQZAK--pC",
+    "videoUrl": "https://youtube.com/shorts/87hrJVQV1Ko?si=1cSTr9nSQZAK--pC"
   },
   {
     "img": "img/productos/Cargador Lets.png",
@@ -801,8 +805,8 @@
     "inStock": true,
     "priceNum": "42000",
     "cashPrice": "39000",
-    "img": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/apex-wireless-white--1779911446697.jpg",
-    "gallery": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/apex-wireless-white--1779911446697.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000148096control-raptor-wh-06-800x800-1779911494835.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000248096control-raptor-wh-05-800x800-1779911494890.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000348097control-raptor-wh-04-800x800-1779911494923.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/000000000041839324859418393-1-800x800-1779911494961.jpg",
+    "img": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/joystick-apex-white-wireless-1780950681443.jpg",
+    "gallery": "img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/joystick-apex-white-wireless-1780950681443.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000148096control-raptor-wh-06-800x800-1779911494835.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000248096control-raptor-wh-05-800x800-1779911494890.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/0000000000418393000348097control-raptor-wh-04-800x800-1779911494923.jpg,img/productos/control-raptor-apex-wireless-p-pc-ps3-swith-android-white-7619/000000000041839324859418393-1-800x800-1779911494961.jpg",
     "desc": "🎮 Gamepad Inalámbrico Multifunción con RGB  \nCompatibilidad amplia y rendimiento preciso para tus juegos.\n\n🖥️ Compatible con: PS / PC / Switch / Android\n\n🔋 Batería: 600 mAh, hasta 10 horas de uso continuo\n\n⚡ Carga rápida: puerto USB Tipo C, tiempo de carga aprox. 3 h\n\n📡 Bluetooth: alcance de hasta 8 m\n\n🌈 Iluminación RGB: diseño gamer con estilo\n\n🎯 Palancas con sensor Hall: mayor precisión y durabilidad\n\n🚀 Función Turbo y programación: personalización avanzada para cada juego\n\n🔊 Consumo eficiente: corriente de trabajo < 100 mA\n\n🔌 Cable incluido: Tipo C\n\n✅ Ideal para gamers que buscan comodidad, estilo y control preciso en múltiples plataformas.",
     "customButtons": [],
     "banners": [
@@ -814,10 +818,10 @@
     "category3": "destacados",
     "excludeFromExport": false,
     "proximoIngreso": false,
-    "videoUrl": "https://www.youtube.com/shorts/mccm3ivIs_g",
+    "videoUrl": "",
     "stock": 3,
     "iva": "21,00%",
-    "video": "https://www.youtube.com/shorts/mccm3ivIs_g"
+    "video": ""
   },
   {
     "id": "PROD-MPEH1T84087F",
