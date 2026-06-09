@@ -1237,6 +1237,12 @@ window.openProductModal = function (card, pushToHistory = true) {
     // Vimeo
     const vimeo = url.match(/vimeo\.com\/(\d+)/);
     if (vimeo) return `https://player.vimeo.com/video/${vimeo[1]}?autoplay=1`;
+    // TikTok
+    const tiktok = url.match(/tiktok\.com\/(?:.*\/video\/|v\/|t\/|embed\/)(\d+)/);
+    if (tiktok) return `https://www.tiktok.com/embed/${tiktok[1]}`;
+    // Instagram
+    const insta = url.match(/instagram\.com\/(?:reel|reels|p)\/([a-zA-Z0-9_-]+)/);
+    if (insta) return `https://www.instagram.com/reel/${insta[1]}/embed/`;
     // Archivo directo .mp4 (u otro)
     return null; // se maneja como <video> nativo
   }
@@ -1248,8 +1254,8 @@ window.openProductModal = function (card, pushToHistory = true) {
     if (/youtube\.com\/shorts\//i.test(url)) return true;
     // TikTok
     if (/tiktok\.com/i.test(url)) return true;
-    // Instagram Reels
-    if (/instagram\.com\/reel/i.test(url)) return true;
+    // Instagram Reels / Posts
+    if (/instagram\.com\/(?:reel|reels|p)\//i.test(url)) return true;
     return false;
   }
 
@@ -1287,8 +1293,9 @@ window.openProductModal = function (card, pushToHistory = true) {
       // iframe para YouTube / Vimeo / Shorts
       const iframe = document.createElement('iframe');
       iframe.src = embedUrl;
-      iframe.allow = 'autoplay; encrypted-media; picture-in-picture';
+      iframe.allow = 'autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen';
       iframe.allowFullscreen = true;
+      iframe.referrerPolicy = 'no-referrer-when-downgrade';
       iframe.className = 'pixis-video-embed';
       wrapper.appendChild(iframe);
     } else {

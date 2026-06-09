@@ -6753,13 +6753,11 @@ body:has(#toggle-cart:checked) {
 
   /* El wrapper llena todo el espacio disponible del visor */
   #modalZoom.pixis-zoom-has-vertical #modalVideoWrapper.pixis-video-vertical {
-    width: 100%;
     height: 100%;
-    /* Sin aspect-ratio: el iframe llena el contenedor y YouTube
-       maneja internamente sus barras negras */
-    aspect-ratio: unset;
-    max-height: none;
-    margin: 0;
+    width: auto;
+    aspect-ratio: 9 / 16;
+    max-height: 100%;
+    margin: 0 auto;
   }
 }
 
